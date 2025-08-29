@@ -1,0 +1,6 @@
+Also know as the "World Ash."
+
+> Yggdrasil is an impossibly huge ash tree spawned in the first layer of Ysgard, though its innumerable roots and branches contain two-way portals that reach onto many other planes. These portals aren't like the kind found in Sigil, but more like the color pools of the Astral Plane: round, shimmering gates of color that are always open and require no key. The portals aren't bounded spaces, either; branches and roots simply disappear into them.
+> The main trunk of Yggdrasil is actually part of the Astral Plane. However, travelers through the Silver Void never see the tree. Similarly, those walking along a branch can't spy conduits or githyanki through the thick leaves, but if they move more than 50 feet away from the tree (say, by flying or levitating), they "fall off" and find themselves in the Astral.
+> Yggdrasil generally has reliable gravity, and travelers can walk all the way around a branch if they like. But while crossing a spot where two branches meet, there's a moment of disorientation where a berk feels the pull of gravity from both branches at once, or the absence of gravity entirely. It's a good idea, then, not to travel upside-down.
+>   *-- Dead Gods adventure module, pg. 27*

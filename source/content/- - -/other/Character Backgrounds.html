@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>D&D Character Sheet Viewer</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            color: #333;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: rgba(255, 255, 255, 0.95);
+            border-radius: 20px;
+            padding: 30px;
+            box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+            backdrop-filter: blur(10px);
+        }
+        
+        h1 {
+            text-align: center;
+            color: #4a5568;
+            margin-bottom: 30px;
+            font-size: 2.5em;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.1);
+        }
+        
+        .character-card {
+            background: white;
+            border-radius: 15px;
+            padding: 25px;
+            margin-bottom: 30px;
+            box-shadow: 0 8px 25px rgba(0,0,0,0.1);
+            border-left: 5px solid #667eea;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        
+        .character-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 15px 35px rgba(0,0,0,0.15);
+        }
+        
+        .character-name {
+            font-size: 1.8em;
+            font-weight: bold;
+            color: #2d3748;
+            margin-bottom: 10px;
+            border-bottom: 2px solid #edf2f7;
+            padding-bottom: 10px;
+        }
+        
+        .character-origin {
+            background: #f7fafc;
+            padding: 10px 15px;
+            border-radius: 8px;
+            margin-bottom: 15px;
+            border-left: 3px solid #4299e1;
+        }
+        
+        .section {
+            margin-bottom: 20px;
+        }
+        
+        .section-title {
+            font-weight: bold;
+            color: #4a5568;
+            margin-bottom: 8px;
+            font-size: 1.1em;
+            display: flex;
+            align-items: center;
+        }
+        
+        .section-title::before {
+            content: "▶";
+            margin-right: 8px;
+            color: #667eea;
+        }
+        
+        .section-content {
+            line-height: 1.6;
+            color: #2d3748;
+            padding-left: 20px;
+        }
+        
+        .goals {
+            background: #f0fff4;
+            padding: 15px;
+            border-radius: 10px;
+            border: 1px solid #68d391;
+        }
+        
+        .treasure {
+            background: #fffbf0;
+            padding: 15px;
+            border-radius: 10px;
+            border: 1px solid #f6e05e;
+        }
+        
+        .timestamp {
+            font-size: 0.9em;
+            color: #718096;
+            text-align: right;
+            margin-top: 15px;
+            font-style: italic;
+        }
+        
+        .tab-container {
+            display: flex;
+            margin-bottom: 20px;
+            border-bottom: 2px solid #edf2f7;
+        }
+        
+        .tab {
+            padding: 12px 24px;
+            background: #f7fafc;
+            border: none;
+            cursor: pointer;
+            font-size: 1em;
+            color: #4a5568;
+            border-radius: 8px 8px 0 0;
+            margin-right: 5px;
+            transition: all 0.3s ease;
+        }
+        
+        .tab.active {
+            background: #667eea;
+            color: white;
+            transform: translateY(-2px);
+        }
+        
+        .tab:hover {
+            background: #4c51bf;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🎲 D&D Character Sheets 🎲</h1>
+        
+        <div class="tab-container">
+            <button class="tab active" onclick="showCharacter(0)">Conradthew Lucius Skullcracker III</button>
+            <button class="tab" onclick="showCharacter(1)">Jig</button>
+            <button class="tab" onclick="showCharacter(2)">Francis Maskanperi</button>
+        </div>
+        
+        <div id="character-display"></div>
+    </div>
+
+    <script>
+        const characters = [
+            {
+                name: "Conradthew Lucius Skullcracker III",
+                origin: "Prime Material",
+                location: "Not specified",
+                outlands: "He ended up in the Outlands after him and a few peers with vaguely related goals engaged in an unsanctioned ritual on school grounds to create a portal that traverses planes, in a reckless attempt to break out of his enforced career/life path. This landed him in Ribcage due to its alignment proximity to the evil empire he resides in.",
+                homeLife: "Conrad was/is a university student at the Dredgoth Memorial Institute of Arcana at Steamengard, being taught to master the necessary spells for the water-half of the steam engine operations role he was born into. He's an Evocation major - Occult minor - with decent but not exceptional grades. However he's a deeply unhappy student looking to escape his fate. His only friends at the university are those outsiders who share his displeasure. Although unlike him, most of them are more inclined toward rebellion against the empire than merely escaping their caste as he does, so they don't trust him much and this is likely the reason he was picked to try going through the experimental portal first. As far as he's aware, none of his peers went through after him. He has a complicated relationship with his mother who does the same work (as do most everyone in his family) and she is both proud of that work and extremely patriotic. He doesn't know his father, who - as is traditional for breeding water casters - was a genie temporarily summoned from the plane of Elemental Water. He's never given any thought toward ever meeting his father until getting stuck in the Outlands, where the possibility of doing so no longer seemed 100% impossible.",
+                motivation: "Being stuck on the other side of their poorly documented portal ritual was absolutely not in any of Conrad's plans. He doesn't think things through that far ahead. So besides surviving, he's just making it up as he goes. Though he does feel torn between his natural curiosity to explore and have novel experiences, and his instinct to find a way back to prove the ritual worked. Luckily, both of those things align with what the party is currently trying to do: reaching Sigil sounds novel and exciting, and also promises a potential way back.",
+                goals: "Short-term is to explore the Beastlands for any clues toward a way into Sigil. Mid-term, he wants to learn a wider array of spells and maybe find - while he's in this multiplanar place - any leads on his father and perhaps a way to meet him. Long term, he wants to use the experiences here to his benefit to prove he's too valuable to remain a simple operator, and should instead be an official Experimentalist, or perhaps an Overseer, or even an Archwizard, any of whom would enjoy great freedoms within the empire on his home material plane.",
+                treasure: "Potions are always fun. Also, I haven't leaned into it yet but Conrad is pretty vain. He'd totally wear any cool looking jewelry or trinkets we find.",
+                timestamp: "12/2/2024 22:26"
+            },
+            {
+                name: "Jig (just Jig)",
+                origin: "Prime Material",
+                location: "Not specified",
+                outlands: "While attempting to jump into a time hole, Jig unwittingly jumped into a portal to Sigil's Hive Ward. The existence of portals was, until now, unknown to his world. The experience was overwhelming and horrifying, leading to him escaping the city and finding the least-populated place he could find. He ended up outside the Well of Urd, keeping minimal contact with those in the settlement.",
+                homeLife: "Barry's world has gone through two different disasters. The first is a series of time... events (time holes, as he calls them), which overwhelmed the world and left the original Barry as only one of three survivors. The second is the expansion and subsequent collapse of the Barry population caused by the original Barry attempting to fix the world. Pre-disaster: Routine, kind of boring life for a mid-30s divorced man, working at a unionized welding shop, in a suburban area, with a neighbor who absolutely hates him for a series of incredibly minor infractions. Recovered/recovering alcoholic, though that wasn't the reason for the divorce. No children. Ex-wife, who he married just after high school (before she left for college), worked in some kind of experimental research, which he knows absolutely nothing about. Post-disaster: Jig is a time-created copy of Barry, retaining all his pre-disaster memories, and is the only survivor of the the Collapse, an event in which Barry attempted to fix the time fracture he originally created by repeatedly jumping into time holes and copying himself 6 billion times, before the population grew to the point where it could no longer sustain itself. Each copy was changed due to minor fluctuations, and Jig is a Barry copy with unusually good survival skills, though his survival has been partially based on luck instead of skill (there was a lot left over from the first collapse). This has given him an inflated amount of confidence in his abilities. Jig goes by the name 'Jig' instead of 'Barry' because he is terrified that someone knows about what happened in his world, and feels they would blame him for what happened. He will eventually have to admit this to someone.",
+                motivation: "Jig has just been surviving since he landed in Sigil, and has not made any progress towards all this time stuff. He's confident he could fix what Barry never could, and is trying to find someone skilled in time-magery, or whatever this world calls that kind of thing. Maybe someone else knows what he doesn't?",
+                goals: "Short-term: Get past mere survival, which is all he's been concerned about. Understand something about where he is and how he got here. He still has no idea about how portals work. Mid-term: Find someone who understands time holes and understand what happened to his world. Long-term: Find a portal back to his own world and fix it. This is definitely something he can do, and it will not result in even worse things happening as a result. This Barry is different. If we make it here, I'll take over. Narrator: What happened to Barry's world is a causal loop; in the future, he flung stuff back through time holes trying to help his past self, which in turn gradually destabilized and destroyed the world. He has no idea this is what happened.",
+                treasure: "Jig is all-or-nothing, throw-it-at-the-wall-and-pray. Either what he does works really well, or it doesn't work at all. Think of anything with a high chance of succeeding or failing; he'll use it and hope for the best, thinking 'oh yeah this is going to go well.'",
+                timestamp: "12/3/2024 18:53"
+            },
+            {
+                name: "Francis Maskanperi",
+                origin: "Beastlands",
+                location: "Brux, I like the idea of it constantly being the golden hour",
+                outlands: "Francis entered through a portal.",
+                homeLife: "Busy toiling for a necromancer boss(Sarif) to whom he is in thrall. Struck up a bargain with a resurrected knight (Adam), who is also a slave to the boss, to find a way to free themselves from the hold the boss has over them. Francis is able to put Sarif under a limited time sleeping spell and they make their escape.",
+                motivation: "Francis is trying to find a particular item that could help free them from the necromancer. He's not much of a people person but knows the skills and experience of those in the party could potentially help. He knows he cannot go it alone even if he'd prefer it that way.",
+                goals: "Short-term: Obtain more knowledge to help quest. Knowledge is power. Mid-term: He will never admit this, but he is trying to along better with Jig, even as Jig annoys him frequently. Jig in many ways reminds him of Adam. Long-term: Increase abilities to help with quest back home. Get the thing that will help free them from Sarif and get back home in one piece and more of a badass (It's totally not so he can impress Adam).",
+                treasure: "Francis is partial to snakes and has adopted it as iconography in many of his spells. His last name means Firesnake in elvish. Items with snake iconography will always draw his interest, but anything increasing his magical abilities and self-protection will be top priority. he would love to add new magical toys to his arsenal. If it has snake symbolism, that would be the cherry on top.",
+                timestamp: "6/21/2025 12:46"
+            }
+        ];
+
+        function showCharacter(index) {
+            const char = characters[index];
+            const display = document.getElementById('character-display');
+            
+            // Update tab active state
+            document.querySelectorAll('.tab').forEach(tab => tab.classList.remove('active'));
+            document.querySelectorAll('.tab')[index].classList.add('active');
+            
+            display.innerHTML = `
+                <div class="character-card">
+                    <div class="character-name">${char.name}</div>
+                    <div class="character-origin">
+                        <strong>Origin:</strong> ${char.origin}
+                        ${char.location ? `<br><strong>Location:</strong> ${char.location}` : ''}
+                    </div>
+                    
+                    <div class="section">
+                        <div class="section-title">How they ended up in the Outlands</div>
+                        <div class="section-content">${char.outlands}</div>
+                    </div>
+                    
+                    <div class="section">
+                        <div class="section-title">Home Life</div>
+                        <div class="section-content">${char.homeLife}</div>
+                    </div>
+                    
+                    <div class="section">
+                        <div class="section-title">Motivation</div>
+                        <div class="section-content">${char.motivation}</div>
+                    </div>
+                    
+                    <div class="section">
+                        <div class="section-title">Goals</div>
+                        <div class="section-content goals">${char.goals}</div>
+                    </div>
+                    
+                    <div class="section">
+                        <div class="section-title">Treasure Preferences</div>
+                        <div class="section-content treasure">${char.treasure}</div>
+                    </div>
+                    
+                    <div class="timestamp">Created: ${char.timestamp}</div>
+                </div>
+            `;
+        }
+        
+        // Show first character by default
+        showCharacter(0);
+    </script>
+</body>
+</html>

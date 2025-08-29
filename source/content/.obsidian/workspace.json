@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "d970d575572f0b74",
+    "type": "split",
+    "children": [
+      {
+        "id": "db006ac0f66dc1a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14ce2a1dd2e4ab6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "370291e0bfef5e52",
+    "type": "split",
+    "children": [
+      {
+        "id": "97378a364e3bdc00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df2e5bc5257870f2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f3677f4f96f70c42",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "34e326acca63c968",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2f688e83b14f7b43",
+    "type": "split",
+    "children": [
+      {
+        "id": "873673be04e54834",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97e73a28483ba7db",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2. World/Story/2. (Midnight) Meat Train.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2. (Midnight) Meat Train"
+            }
+          },
+          {
+            "id": "6cf50aa2fe32c87a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "World/Story/1. Plumbing Problems in Ribcage.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 1. Plumbing Problems in Ribcage"
+            }
+          },
+          {
+            "id": "f0dd8fec7d5680cf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "91d3ca2ebc57c292",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "World/Story/1. Plumbing Problems in Ribcage.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 1. Plumbing Problems in Ribcage"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "14ce2a1dd2e4ab6b",
+  "lastOpenFiles": [
+    "1. Game/Quests/3. The Crawling God/3. The Crawling God.md",
+    "2. World/Characters/NPCs/Beastlands/Grath.md",
+    "1. Game/Quests/3. The Crawling God/3b. Infected Yggdrasil Ascent.md",
+    "1. Game/Creatures/Swamp-Warped Skrick.md",
+    "1. Game/Creatures/Proto-Vegetal Servitor.md",
+    "1. Game/Creatures/Infected Owlbear.md",
+    "1. Game/Quests/Map - The Coilroot Expanse.md",
+    "2. World/Locations/Beastlands/Plesio Lake.md",
+    "2. World/Locations/Beastlands/Stillwater Lake.md",
+    "2. World/Locations/Beastlands/The Lantern Cairn of Dym.md",
+    "2. World/Locations/Beastlands/The Tallowtine Thicket.md",
+    "2. World/Locations/Beastlands/The Coilroot Expanse.md",
+    "2. World/Locations/Yygdrasil.md",
+    "1. Game/Quests/3. The Crawling God/3. The Infection.md",
+    "1. Game/Quests/3. The Crawling God/2. The Fey Party.md",
+    "1. Game/Quests/2. Meat Train/Adventure - (Midnight) Meat Train.md",
+    "1. Game/Quests/3. The Crawling God/1. Beastlands Entrance.md",
+    "0. DM Screen/Character Sheets/Francis Maskanperi (Nessa).md",
+    "0. DM Screen/Character Sheets/Modest Mina (Wren).md",
+    "1. Game/Quests/3. The Crawling God/The Journals and Notes of Kythron Vex.md",
+    "2. World/Characters/NPCs/Beastlands/Gulpwell the Gluttonous.md",
+    "2. World/Locations/Beastlands/Sqeulaiche.md",
+    "1. Game/Magic Items/Verdant Compass.md",
+    "1. Game/Magic Items/Jester's Coin of Fortune.md",
+    "- - -/templates/magicitem.md",
+    "1. Game/Magic Items/Portal Compass.md",
+    "- - -/attachments/squelaiche.png",
+    "- - -/attachments/gulpwell.png",
+    "- - -/attachments/thornwick.png",
+    "- - -/attachments/audio logs/Pathfinder 09-08-2024.m4a",
+    "2. World/Locations/Sigil",
+    "2. World/Characters/NPCs/Sigil",
+    "- - -/attachments/audio logs",
+    "- - -/attachments/Audio Logs/Pathfinder 09-08-2024.m4a",
+    "- - -/attachments/Audio Logs",
+    "- - -/other/Audio Logs/Pathfinder 09-08-2024.m4a",
+    "- - -/other/Audio Logs",
+    "- - -/other/Planescape Character Background.pdf",
+    "- - -/other/Character Backgrounds.html",
+    "0. DM Screen/Character Sheets/Untitled.canvas",
+    "0. DM Screen/Untitled.canvas",
+    "- - -/maps/tissue_forest_smaller.jpg",
+    "- - -/maps/tissue_forest.jpg",
+    "- - -/attachments/francis.png",
+    "- - -/attachments/francis_portrait.png",
+    "- - -/attachments/conrad_portrait.png",
+    "- - -/attachments/mina_portrait.png",
+    "- - -/attachments/jig_portrait.png"
+  ]
+}

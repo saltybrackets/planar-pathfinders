@@ -1,0 +1,35 @@
+![[tissue_forest_smaller.jpg]]
+
+- Webbed areas are thick vine growths that hide pathways. They must be cut away to be passed.
+	- Perception DC 15 to discover
+	- AC 14, 5 hitpoints
+
+- **1: Mire of Skricks**
+	- A muddy depression laced with twitching tanglevine and fetid pools. The light is dim due to the canopy coverage, though fireflies cling to webs of mist.
+	- Three swamp-warped skricks swim through the muck.
+	- Light glints off something in the muck. A cracked mirror amulet, its glass etched with spirals. May act as a portal key.
+- **2: Intestinal Glade** (hidden, DC 15 to discover)
+	- Thick undergrowth forms a natural spiral, the trees lining the outer edges leaning slightly inward. A constant rustling surrounds the area despite no visible wind. Leaves here glisten with a viscous film.
+	- The fronds respond to movement with spasmodic contractions. If hacked apart, they secrete brown jelly. If the jelly is touched, it grants a fleeting memory of insects as they were recently devoured.
+	- **Treasure:**
+- **3: Spiral Maw Trail** 
+	- The air smells of old blood and ripe fruit. The ground bulges in unnatural ways. The closely knit "walls" of the jungle rhythmically wave toward the direction the party is walking. The foliage increasingly narrows, forming a claustrophobic choke point. 
+	- A sticky mat of fibrous roots pulses if stepped on, making the ground feel like it's tensing. If disturbed further, it lets forth a roiling, rumbling "coughing" sound from all around, pitching forward the disturber unless they make a Dexterity save (DC 12). Failing causes them to become stuck in the choke point, taking 1d6 crushing damage each round until they can make a DC 13 Athletics check (if people pull, it provides advantage on the check). However, inside the choke point the victim will discover a treasure!
+	- **Treasure:**
+- **4: Bloom of the Servitors** 
+	- A fungus-choked ravine. Here, the jungle contains bundles of bones emerging from the ground, almost like tumorous growths. Trees here are swollen, their bark stretched thin over knotted wood. Stalks with eye-like pods sway despite the still air. In the center of the clearing, a tree's inner trunk has transformed into a pulsing, glowing mass of red sap.
+	- 4x [[Proto-Vegetal Servitor]]s attempt to ambush the party from all sides if the party reaches the center. Perception DC 15 to notice them upon entering the clearing.
+	- Heart-Wood Knot: Breaking open the center tree (AC 16, 4 hp) reveals a consumed humanoid's bones, as well as a magical mask.
+	- **Treasure:**  
+- **5: Tendon-Vaulted Crossing**
+	- A narrow, vine-wrapped crossing resembling the inside of a ribcage. The path is pressed between two walls of vine and bone-like roots. Sounds here are muted, like being deep underwater.
+	- Climbing vines that lightly pulse with bioluminescent signals. Anyone touching them hears a whispered voice reciting what almost sounds like half-finished mantras in Infernal. "Home. Not home. Make it home. Get there."
+	- A tree riddled with holes exudes thick, red sap. Inside is a desiccated animal skull covered in spiral etchings. Examination reveals it was once a petitioner, warped beyond reclamation.
+- **6: Nezharin’s Threshold**
+	- An open grove where the corruption briefly subsides. The air is clearer, and plant growth resembles its original, untouched state. But underfoot, the soil still pulses, and strange snake tracks crisscross the mud.
+	- Event: First potential contact with [[Lymbix Thissara]].
+	- Discarded Train-Plate: A hunk of fleshy metal from the train—part of its discarded carapace. It's warm to the touch, and reacts to psychic input from [[Francis]].
+- **7: Silicant Coil**
+	- A twisted ruin overtaken by jungle-flesh. Coils of calcified snakebone rise in uneven spirals, forming a dome. At the center, a dais now serves as a gestation platform for the cult’s rituals. It drips with oily fluid from vines above.
+	- Ouroboric Reliquary: A metal container wrapped in serpent-scale leather, housing five fossilized fangs etched with segments of divine script. Reading them imparts a compulsion to “close the circle.”
+	- Skinbound Doctrine: A scroll made from layered shed skins, written in spiraling glyphs. Will need to be deciphered by someone in the know, it describes Ouroboros not as a god, but as a thought pattern that became sentient—a recursive divine process broken free from its creators.

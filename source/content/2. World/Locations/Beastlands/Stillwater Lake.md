@@ -1,0 +1,4 @@
+A slow-moving tributary that flows into Oceanus, its surface perfectly still—like a mirrored scar in the jungle. This offshoot of the Oceanus glides silently through the jungle. No ripples, no sound. It reflects not just image, but emotional aura—a character in grief might see clouds or fire in the water.
+
+- The players observe a large cat (jaguar or displacer beast) staring at its own reflection for hours without moving. Eventually, it snarls and pounces on itself, shattering the surface—and vanishing.
+- Drinking from the Rill purifies ailments as if by lesser restoration. Once per person. However, those who drink find that their reflection no longer blinks for the next 24 hours.
