@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c58562cbb4b708ef",
+        "id": "8a329338864ff871",
         "type": "tabs",
         "children": [
           {
-            "id": "8fccad5398f0f830",
+            "id": "295445fd08ed147d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wiki/Characters/NPCs/Sigil/Alluvius Ruskin.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Alluvius Ruskin"
+              "title": "index"
             }
           }
         ]
@@ -169,34 +169,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8fccad5398f0f830",
+  "active": "295445fd08ed147d",
   "lastOpenFiles": [
-    "test-headers.md",
-    "- - -/templates/dmnote.md",
-    "- - -/templates/adventure.md",
-    "- - -/templates/character.md",
-    "- - -/templates/statblock.md",
-    "- - -/templates/magicitem.md",
-    "Wiki/Characters/NPCs/Sigil/Alluvius Ruskin.md",
-    "Wiki/Locations/Sigil/Tivvum's Antiquities.md",
-    "Wiki/Locations/The Outlands/Gate-Towns/Ribcage/Gymnasium of Steam.md",
-    "Wiki/Locations/The Outlands/Gate-Towns/Ribcage/Ribcage.md",
-    "Wiki/Locations/The Outlands/Gate-Towns/Faunel.md",
-    "Wiki/Locations/The Outlands/Realm of the Norns.md",
-    "Wiki/Locations/The Outlands/The Outlands.md",
-    "Wiki/Locations/Yygdrasil.md",
-    "Wiki/Organizations/Incanterium.md",
-    "index.md",
-    "test-dm-notes.md",
-    "Wiki/Story/2. Midnight Meat Train.md",
-    "Wiki/Story/1. Plumbing Problems in Ribcage.md",
-    "Wiki/Story/0. Prologue.md",
     "Wiki/Organizations/Seelie Court.md",
+    "Wiki/Organizations/Incanterium.md",
     "Wiki/Organizations/Incantifier.md",
     "Wiki/Organizations/Cult of Ouroboros.md",
-    "Wiki/Magic Items/Jester's Chocolate Coin.md",
-    "Wiki/Magic Items/Jester's Coin of Fortune.md",
-    "Wiki/Magic Items/Verdant Compass.md",
+    "Wiki/Locations/Sigil/Tivvum's Antiquities.md",
+    "Wiki/Locations/Beastlands/The Lantern Cairn of Dym.md",
+    "Wiki/Locations/Beastlands/Stillwater Lake.md",
+    "Wiki/Locations/Beastlands/Plesio Lake.md",
+    "Wiki/Feats/Dubious Knowledge.md",
+    "Wiki/Characters/NPCs/Sigil/Alluvius Ruskin.md",
+    "Wiki/Characters/NPCs/Ribcage/Thadeus.md",
+    "Wiki/Characters/NPCs/Ribcage/Reginald Pipefitter.md",
+    "Wiki/Characters/NPCs/Ribcage/Lilito.md",
+    "Wiki/Characters/NPCs/Ribcage/Demorial.md",
+    "Wiki/Characters/NPCs/Ribcage/Daisy.md",
+    "Wiki/Characters/NPCs/Meat Train/Seraphine Stillblood.md",
+    "Wiki/Characters/NPCs/Meat Train/Ramon.md",
+    "Wiki/Characters/NPCs/Meat Train/Namby the Tireless.md",
+    "Wiki/Characters/NPCs/Meat Train/Nadia.md",
+    "Wiki/Characters/NPCs/Meat Train/Meat Train.md",
+    "Wiki/Characters/NPCs/Meat Train/Lazerus.md",
+    "Wiki/Characters/NPCs/Meat Train/Carl Robertson.md",
+    "Wiki/Characters/NPCs/Meat Train/Birch.md",
+    "Wiki/Characters/NPCs/Gods/Ouroboros.md",
+    "Wiki/Characters/NPCs/Beastlands/Thornwick.md",
+    "Wiki/Characters/NPCs/Beastlands/Tarnu.md",
+    "Wiki/Lore",
     "- - -/attachments/concordant_express.png",
     "- - -/attachments/yggdrasil_map.png",
     "_attachments",
@@ -211,7 +212,6 @@
     "- - -/attachments/Audio Logs",
     "- - -/other/Audio Logs/Pathfinder 09-08-2024.m4a",
     "- - -/other/Audio Logs",
-    "- - -/other/Planescape Character Background.pdf",
     "0. DM Screen/Character Sheets/Untitled.canvas",
     "0. DM Screen/Untitled.canvas",
     "- - -/maps/tissue_forest_smaller.jpg",

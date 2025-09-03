@@ -8,7 +8,5 @@ publish: true
 >Type|Stat|
 >---|---|
 >**Race**|Bullywug|
->Passive Insight|11
->Passive Perception|13
 >###### Info
 >Speaks in a booming, enthusiastic voice and frequently compliments good eating.

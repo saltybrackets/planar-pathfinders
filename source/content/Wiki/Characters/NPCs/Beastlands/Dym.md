@@ -8,7 +8,8 @@ Once the apprentice of [[Kythron Vex]], left alone in [[The Lantern Cairn of Dym
 
 > **Quirks:** Dym has retained several fox mannerisms despite his awakening—he still caches small treasures around his tower, tilts his head when concentrating, and has an irrepressible urge to investigate new scents. He speaks to the wind when lonely, believing it carries messages between planes, and always knows exactly when dawn and dusk *would* occur in the Beastlands, often pausing his activities to observe these transitions in respectful silence.
 
----
+
+## (DM Only) Stats
 >[!statblocks]
 ># Awakened Fox (Former Familiar)
 >**Type:** Small Beast

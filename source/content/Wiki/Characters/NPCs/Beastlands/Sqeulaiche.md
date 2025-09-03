@@ -8,7 +8,5 @@ publish: true
 >Type|Stat|
 >---|---|
 >**Race**|Archfey Leprechaun|
->Passive Insight|26|
->Passive Perception|26|
 >###### Info
 >Sqeulaiche speaks with theatrical flair and dramatic gestures, often breaking the fourth wall with winks and asides. He delights in wordplay, puns, and turning serious moments into comedic ones

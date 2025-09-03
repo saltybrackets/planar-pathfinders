@@ -10,7 +10,7 @@ Alluvius, a small, elderly tiefling, speaks in a shaky voice, but she's fiercely
 ## Appearance and Demeanor
 No one'd guess at the power behind the tiefling. She looks like a weak, elderly, human female, with small horns poking up through thin, silvery hair. Lu's wispy, gray strands curl up at the ends and hang slightly aloft, as if caught in a light breeze. She's known to wear eccentric garb for a tiefling of her years — often a long, fitted, dark green jacket with tails, and leggings of a gray and green pattern that define her spindly form.
 
-## (DM Notes) The Chant
+## (DM Notes) The Dark of It
 Alluvius (Lu, for short) exaggerates just a bit. But no one else knows that practically nothing could be the death of her. She's an incantifier. She no longer lives in the normal sense of the word, having no need to breathe, eat, or sleep; instead, she feeds on magic. Lu can absorb the effect of any spell thrown at her or drain every last drop of power from any magical item. Fact is, she must — she's got to absorb enough magic each month to keep from permanently losing some of her own power.
 
 But Lu's need for magic goes far beyond just sustaining herself from month to month. For an incantifier, magic is the key to everything because it equals might — if a body gets enough of it, he can bend the multiverse to his will. Centuries ago, the incantifiers were a full-fledged faction in Sigil, called the Incanterium and nicknamed the Magicians — the magic-addicts grew in power and influence until they could make the other factions jump.

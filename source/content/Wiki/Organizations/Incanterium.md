@@ -20,6 +20,6 @@ But some were still left over, wandering the planes, calling themselves [[Incant
 ## Philosophy
 Incantifiers believed magic was the ultimate power of the planes: archmages would redefine the laws of their worlds, even gods feared it. You could control the entire multiverse, if only you learned enough magic. It has, after all, been done before.
 
-## Members
+## (DM Notes) Members
 - [[Alluvius Ruskin]]
 - Trikante
