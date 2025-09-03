@@ -30,8 +30,6 @@ export const RemoveDMHeaderSections: QuartzTransformerPlugin<{}> = () => {
       return [
         () => {
           return async (tree: HTMLRoot, file) => {
-            const nodesToRemove: Array<{ index: number, parent: any }> = []
-            
             visit(tree, "element", (node, index, parent) => {
               if (!parent || typeof index !== "number") return
               
@@ -39,15 +37,16 @@ export const RemoveDMHeaderSections: QuartzTransformerPlugin<{}> = () => {
               const headerLevel = getHeaderLevel(node.tagName)
               if (!headerLevel) return
               
-              // Check if header text starts with "(DM Note)"
-              const headerText = getHeaderText(node)
-              if (!headerText.startsWith("(DM Note)")) return
+              // Check if header text starts with DM variations (case insensitive)
+              const headerText = getHeaderText(node).toLowerCase()
+              const dmPatterns = ["(dm note)", "(dm notes)", "(dm only)", "(dm)"]
+              if (!dmPatterns.some(pattern => headerText.startsWith(pattern))) return
               
-              // Found a DM Note header - mark it for removal
-              nodesToRemove.push({ index, parent })
+              // Found a DM Note header - remove it and everything until the next equal/higher level header
+              const siblings = parent.children
+              const elementsToRemove: any[] = [node] // Start with the DM header itself
               
               // Find all subsequent elements to remove until next header of same or higher level
-              const siblings = parent.children
               for (let i = index + 1; i < siblings.length; i++) {
                 const sibling = siblings[i]
                 
@@ -61,16 +60,20 @@ export const RemoveDMHeaderSections: QuartzTransformerPlugin<{}> = () => {
                 }
                 
                 // Mark this sibling for removal
-                nodesToRemove.push({ index: i, parent })
+                elementsToRemove.push(sibling)
               }
+              
+              // Remove all marked elements
+              for (const elementToRemove of elementsToRemove) {
+                const elementIndex = siblings.indexOf(elementToRemove)
+                if (elementIndex !== -1) {
+                  siblings.splice(elementIndex, 1)
+                }
+              }
+              
+              // Return "skip" to avoid processing removed nodes
+              return ["skip", index]
             })
-            
-            // Remove nodes in reverse order to maintain correct indices
-            nodesToRemove.sort((a, b) => b.index - a.index)
-            
-            for (const { index, parent } of nodesToRemove) {
-              parent.children.splice(index, 1)
-            }
           }
         },
       ]

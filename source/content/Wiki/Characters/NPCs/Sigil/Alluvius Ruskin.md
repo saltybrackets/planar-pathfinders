@@ -10,7 +10,7 @@ Alluvius, a small, elderly tiefling, speaks in a shaky voice, but she's fiercely
 ## Appearance and Demeanor
 No one'd guess at the power behind the tiefling. She looks like a weak, elderly, human female, with small horns poking up through thin, silvery hair. Lu's wispy, gray strands curl up at the ends and hang slightly aloft, as if caught in a light breeze. She's known to wear eccentric garb for a tiefling of her years — often a long, fitted, dark green jacket with tails, and leggings of a gray and green pattern that define her spindly form.
 
-## (DM note) The Chant
+## (DM Notes) The Chant
 Alluvius (Lu, for short) exaggerates just a bit. But no one else knows that practically nothing could be the death of her. She's an incantifier. She no longer lives in the normal sense of the word, having no need to breathe, eat, or sleep; instead, she feeds on magic. Lu can absorb the effect of any spell thrown at her or drain every last drop of power from any magical item. Fact is, she must — she's got to absorb enough magic each month to keep from permanently losing some of her own power.
 
 But Lu's need for magic goes far beyond just sustaining herself from month to month. For an incantifier, magic is the key to everything because it equals might — if a body gets enough of it, he can bend the multiverse to his will. Centuries ago, the incantifiers were a full-fledged faction in Sigil, called the Incanterium and nicknamed the Magicians — the magic-addicts grew in power and influence until they could make the other factions jump.
@@ -39,12 +39,12 @@ For the most part, Lu tries to avoid overtly casting spells in front of others. 
 
 Speaking of magical items, Lu's open about her hunger for acquiring such prized objects. 'Course, she claims she's simply "fascinated" by such wondrous things (as is another well-known tiefling about town, Kylie). Fact is, Lu's been known to hire customers right off the floor to seek out various magical items, or even make a purchase from A'kin at the Friendly Fiend.
 
-## (DM note) Philosophy and Plans
+## (DM Only) Philosophy and Plans
 See, the tiefling's learned from the example of others who've tried to challenge the Lady. Aoskar, self-proclaimed god of portals, now floats on the Astral a withered husk. The Expansionists scattered away a thousand years ago when their blustering factol got tossed into a Maze. Even Lu's own predecessors, the Incanterium, vanished right when they seemed poised to take over the Cage.
 
 Alluvius plans to avoid their mistakes. She will grow in power silently, slowly draining the city itself of its magic, until the vast power of Sigil flows through her blood, is hers to command. And then the Lady'd better watch out.
 
-## (DM Note) Stats
+## (DM Only) Stats
 >[!statblocks]
 ># Alluvius Ruskin
 >**Type:** Medium Humanoid (Tiefling, Wizard)
