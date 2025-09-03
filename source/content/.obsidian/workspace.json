@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "980cc3ebc64ae42d",
+        "id": "8042c69bfa9a48a9",
         "type": "tabs",
         "children": [
           {
-            "id": "50419cb636b00485",
+            "id": "971bdafdb6a106b4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Wiki/Characters/Main/Jig.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Jig"
             }
           }
         ]
@@ -165,35 +169,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "50419cb636b00485",
+  "active": "971bdafdb6a106b4",
   "lastOpenFiles": [
+    "Wiki/Characters/NPCs/Beastlands/Dym.md",
     "Wiki/Characters/NPCs/Beastlands/Gulpwell the Gluttonous.md",
-    "1. Game/Quests/3. The Crawling God/Map - Yygdrasil Ascent.md",
-    "1. Game/Creatures/Infected Owlbear.md",
-    "1. Game/Quests/3. The Crawling God/3b. Infected Yggdrasil Ascent.md",
-    "1. Game/Quests/3. The Crawling God/Map - The Coilroot Expanse.md",
-    "0. DM Screen/Character Sheets/Conradthew Lucius Skullcracker III (Eugene).md",
-    "1. Game/Quests/3. The Crawling God/3. The Crawling God.md",
+    "Wiki/Characters/NPCs/Beastlands/Ilyra.md",
     "Wiki/Characters/NPCs/Beastlands/Grath.md",
+    "Wiki/Characters/NPCs/Beastlands/Kythron Vex.md",
+    "Wiki/Characters/NPCs/Beastlands/Lymbix Thissara.md",
+    "Wiki/Characters/Main/Conrad.md",
+    "Wiki/Characters/NPCs/Beastlands/Sqeulaiche.md",
+    "Wiki/Characters/NPCs/Beastlands/Tarnu.md",
+    "Wiki/Characters/NPCs/Beastlands/Thornwick.md",
+    "Wiki/Characters/NPCs/Gods/Ouroboros.md",
+    "Wiki/Characters/NPCs/Meat Train/Birch.md",
+    "Wiki/Characters/NPCs/Ribcage/Thadeus.md",
+    "Wiki/Characters/NPCs/Ribcage/Lilito.md",
+    "Wiki/Characters/NPCs/Ribcage/Demorial.md",
+    "Wiki/Characters/NPCs/Ribcage/Daisy.md",
+    "Wiki/Characters/NPCs/Sigil/Alluvius Ruskin.md",
+    "Wiki/Locations/Sigil/Tivvum's Antiquities.md",
+    "Wiki/Organizations/Incantifier.md",
+    "Wiki/Story/2. Midnight Meat Train.md",
+    "Wiki/Story/1. Plumbing Problems in Ribcage.md",
+    "Wiki/Story/0. Prologue.md",
+    "Wiki/Organizations/Seelie Court.md",
+    "Wiki/Organizations/Incanterium.md",
+    "Wiki/Locations/Yygdrasil.md",
+    "Wiki/Locations/The Outlands/The Outlands.md",
     "_attachments/yggdrasil_map.png",
     "_attachments",
-    "1. Game/Quests/3. The Crawling God/The Journals and Notes of Kythron Vex.md",
-    "1. Game/Quests/3. The Crawling God/2. The Fey Party.md",
-    "0. DM Screen/Character Sheets/Francis Maskanperi (Nessa).md",
-    "index.md",
-    "1. Game/Creatures/Swamp-Warped Skrick.md",
-    "1. Game/Creatures/Proto-Vegetal Servitor.md",
-    "Wiki/Locations/Beastlands/Plesio Lake.md",
-    "Wiki/Locations/Beastlands/Stillwater Lake.md",
-    "Wiki/Locations/Beastlands/The Lantern Cairn of Dym.md",
-    "2. World/Locations/Beastlands/The Tallowtine Thicket.md",
-    "2. World/Locations/Beastlands/The Coilroot Expanse.md",
-    "Wiki/Locations/Yygdrasil.md",
-    "1. Game/Quests/3. The Crawling God/3. The Infection.md",
-    "1. Game/Quests/2. Meat Train/Adventure - (Midnight) Meat Train.md",
-    "1. Game/Quests/3. The Crawling God/1. Beastlands Entrance.md",
-    "0. DM Screen/Character Sheets/Modest Mina (Wren).md",
-    "Wiki/Locations/Beastlands/Sqeulaiche.md",
     "- - -/attachments/squelaiche.png",
     "- - -/attachments/gulpwell.png",
     "- - -/attachments/thornwick.png",

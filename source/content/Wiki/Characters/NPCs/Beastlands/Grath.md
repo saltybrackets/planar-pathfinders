@@ -1,10 +1,14 @@
-Grath "The Mauler" Kael, a towering wrestler-style lycanthrope who's favorite move, "The Glory Hold", is used to assert dominance. May also coax foes into a triangular arena(?), which he calls "The Die-angle"
+---
+tags:
+  - public
+---
+Grath "The Mauler" Kael, a towering wrestler-style lycanthrope petitioner whose favorite move, "The Glory Hold", is used to assert dominance. Vows vengeance upon the Meat Train that destroyed his village, and the mutated owlbear that took [[Ilyra]]'s hand.
 
 ---
 >[!statblocks]
 ># Grath
 >**Type:** Medium Humanoid (Human, Shapechanger)
->**Alignment:** Chaotic Evil
+>**Alignment:** Chaotic Good
 >######
 > **CR:** 5 (1,800 XP)  
 > **AC:** 16 (Natural Armor)  
@@ -30,7 +34,6 @@ Grath "The Mauler" Kael, a towering wrestler-style lycanthrope who's favorite mo
 > - **Multiattack (Humanoid or Hybrid Form Only).** The werewolf makes two attacks: two with its spear (humanoid form) or one with its bite and one with its claws (hybrid form).
 > - **Bite (Wolf or Hybrid Form Only).** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 8 (1d8 + 4) piercing damage. If the target is a humanoid, it must make a DC 14 Constitution saving throw or be cursed with werewolf lycanthropy.
 > - **Claws (Hybrid Form Only).** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one creature. *Hit:* 9 (2d4 + 4) slashing damage.
-> - **Spear (Humanoid Form Only).** *Melee or Ranged Weapon Attack:* +7 to hit, reach 5 ft. or range 20/60 ft., one creature. *Hit:* 7 (1d6 + 4) piercing damage, or 8 (1d8 + 4) piercing damage if used with two hands to make a melee attack.
 > - **Glory Hold (Hybrid Form Only, Recharge 5-6).** The werewolf attempts to grapple a creature within 5 feet. The target must make a DC 15 Athletics or Acrobatics check (target's choice). On a failure, the target is grappled and restrained (escape DC 15). While maintaining this hold, the werewolf cannot move or take other actions, but at the start of each of the target's turns, the target takes 11 (2d6 + 4) bludgeoning damage as the werewolf crushes them. The werewolf can maintain this hold on creatures up to one size larger than itself.
 >###### Bonus Actions
 > - **Grappler's Strike.** If the werewolf has a creature grappled, it can make one bite attack against that creature.

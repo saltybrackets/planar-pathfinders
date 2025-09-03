@@ -1,3 +1,7 @@
+---
+tags:
+  - public
+---
 >[!infobox]+
 ># Sqeulaiche the Court Jester
 >![[squelaiche.png]]
@@ -9,9 +13,6 @@
 >Passive Perception|26|
 >###### Info
 >Sqeulaiche speaks with theatrical flair and dramatic gestures, often breaking the fourth wall with winks and asides. He delights in wordplay, puns, and turning serious moments into comedic ones
-
-## Backstory
-TODO
 
 ---
 >[!statblocks]

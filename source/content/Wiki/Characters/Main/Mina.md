@@ -1,3 +1,7 @@
+---
+tags:
+  - public
+---
 >[!infobox]+
 ># Modest Mina
 >![[mina_portrait.png]]

@@ -1,3 +1,7 @@
+---
+tags:
+  - public
+---
 ![[demorial.png]]
 
 A very large, horned rat-thing who was supposedly a former Duke of the Nine Hells. The  rat continually twitches and shivers as it speaks.

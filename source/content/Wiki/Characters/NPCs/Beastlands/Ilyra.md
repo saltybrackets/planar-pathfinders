@@ -1,4 +1,8 @@
-Werefox (aka foxwere, aka vulpine lycanthrope). A stoic, soft-spoken seer-type who becomes concerned upon discovered evidence of cult activity in the Beastlands' first layer of Krigala.
+---
+tags:
+  - public
+---
+Werefox (aka foxwere, aka vulpine lycanthrope) petitioner. A stoic, soft-spoken seer-type from the village the Meat Train ran throug and demolished. Encountered a mutated owlbear soon after, which had become infected by the corrupted sap oozing from Yygdrasil. Ilyra lost one of her hands while trying to subdue the owlbear. 
 
 ---
 > [!infobox]

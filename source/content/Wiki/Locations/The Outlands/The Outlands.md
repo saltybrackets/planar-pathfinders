@@ -1,3 +1,7 @@
+---
+tags:
+  - public
+---
 ![[outlands_map.png]]
 
 The Concordant Domain of the Outlands, also known as Concordant Opposition, is the center of the Great Wheel of Outer Planes. It connects to all other Outer Planes and is truly neutral in alignment.
@@ -13,7 +17,7 @@ The sixteen gate-towns are:
 - **Excelsior**: A beautiful, well-defended city with a kind population, it connects to Mount Celestia.
 - **Tradegate**: A star-shaped city that bristles with commerce and constant activity, it connects to Bytopia via a complex trade system with a bariaur known as the Master Trader.
 - **Ecstasy**: A peaceful, pastoral town, it connects to Elysium.
-- [Faunel](https://app.kanka.io/w/321869/entities/7687673): A ruined city, but bristling with life, it connects to the Beastlands.
+- [[Faunel]]: A ruined city, but bristling with life, it connects to the Beastlands.
 - **Sylvania**: A constantly partying town where music plays day and night, it connects to Arborea.
 - **Glorium**: A fishing village built at the edge of a fjord, it connects to Ysgard via two different portals. Another branch of Yggdrasil leads to a cavern near the city.
 - **Xaos**: Also known as aXos, sXoa, oasX, and all other permutations, it is an ever-changing city that connects to Limbo.

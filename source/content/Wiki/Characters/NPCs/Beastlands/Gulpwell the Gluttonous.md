@@ -1,3 +1,7 @@
+---
+tags:
+  - public
+---
 >[!infobox]+
 ># Gulpwell the Gluttonous
 >![[gulpwell.png]]
@@ -9,9 +13,6 @@
 >Passive Perception|13
 >###### Info
 >Speaks in a booming, enthusiastic voice and frequently compliments good eating.
-
-## Backstory
-TODO
 
 ---
 >[!statblocks]

@@ -1,3 +1,7 @@
+---
+tags:
+  - public
+---
 The Seelie Court (also called the Summer Court) is a pantheon of deities of the fey.
 
 The Seelie Court works together to rule the fey races of which they are patrons, and to protect the sylvan realms.
@@ -21,7 +25,7 @@ The Seelie Court itself was forced to flee.
 The Seelie Court is split into two groups, the Inner Circle and the Outer Circle. 
 
 #### The Inner Circle
-The Inner Circle was a close group of six deities who had many shared attributes. Although typically chaotic, they were loyal to Queen Titania and would do as she requested. Members of the Inner Circle tended to be playful and curious, though also cautious due to the small size of their avatars. Disputes between members of the Inner Circle were uncommon and always quickly resolved.
+The Inner Circle was a close group of six deities who had many shared attributes. Although typically chaotic, they were loyal to Queen Titania and would do as she requested. Members of the Inner Circle tended to be playful and curious, though also cautious due to the small size of their avatars. Disputes between members of the Inner Circle are uncommon and always quickly resolved.
 
 **The members of the Inner Circle are:**
 - Queen Titania, leader of the pantheon.

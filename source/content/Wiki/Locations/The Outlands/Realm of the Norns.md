@@ -1,3 +1,7 @@
+---
+tags:
+  - public
+---
 Fates are spun and severed in the Realm of the Norns, a community of seers who divine meaning from mystical signs across the planes.
 
 On the horizon looms the sunset-like arch of a phenomenally huge spinning wheel that turns endlessly. Locals gather in a few village-sized hubs, but most keep to themselves in private hermitages, observatories, or other structures from which they ponder fate's particularities.

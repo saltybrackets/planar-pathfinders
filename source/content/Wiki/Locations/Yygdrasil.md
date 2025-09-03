@@ -1,3 +1,7 @@
+---
+tags:
+  - public
+---
 Also know as the "World Ash."
 
 > Yggdrasil is an impossibly huge ash tree spawned in the first layer of Ysgard, though its innumerable roots and branches contain two-way portals that reach onto many other planes. These portals aren't like the kind found in Sigil, but more like the color pools of the Astral Plane: round, shimmering gates of color that are always open and require no key. The portals aren't bounded spaces, either; branches and roots simply disappear into them.
