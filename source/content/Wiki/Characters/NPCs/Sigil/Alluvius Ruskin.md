@@ -1,9 +1,16 @@
- "If Sigil is the City of Doors, then it's also got to be the city of keys — it just follows."
+---
+publish: true
+---
+> "If Sigil is the City of Doors, then it's also got to be the city of keys — it just follows."
 
 So says Alluvius Ruskin, owner of [[Tivvum's Antiquities]], the largest supplier of gate keys in the Cage. Need a white rose petal to open a gate to Arborea? Or how about a baatezu heart for a trip to the frozen wastes of Cania? Whatever the key, it's a good bet that the object's in a bin, barrel, or case at Tivvum's.
 
 Alluvius, a small, elderly tiefling, speaks in a shaky voice, but she's fiercely confident about her business. "I've had to work twice as hard to get my good reputation," she says. "It's almost been the death of me! I know what folks think when they see a tiefling, and believe me, it ain't 'Here, take my jink!'"
 
+## Appearance and Demeanor
+No one'd guess at the power behind the tiefling. She looks like a weak, elderly, human female, with small horns poking up through thin, silvery hair. Lu's wispy, gray strands curl up at the ends and hang slightly aloft, as if caught in a light breeze. She's known to wear eccentric garb for a tiefling of her years — often a long, fitted, dark green jacket with tails, and leggings of a gray and green pattern that define her spindly form.
+
+## (DM note) The Chant
 Alluvius (Lu, for short) exaggerates just a bit. But no one else knows that practically nothing could be the death of her. She's an incantifier. She no longer lives in the normal sense of the word, having no need to breathe, eat, or sleep; instead, she feeds on magic. Lu can absorb the effect of any spell thrown at her or drain every last drop of power from any magical item. Fact is, she must — she's got to absorb enough magic each month to keep from permanently losing some of her own power.
 
 But Lu's need for magic goes far beyond just sustaining herself from month to month. For an incantifier, magic is the key to everything because it equals might — if a body gets enough of it, he can bend the multiverse to his will. Centuries ago, the incantifiers were a full-fledged faction in Sigil, called the Incanterium and nicknamed the Magicians — the magic-addicts grew in power and influence until they could make the other factions jump.
@@ -24,9 +31,6 @@ So far, Lu hasn't found the wizard's spirit. But she refuses to give up — even
 
 Better yet, most of the gems are consumed when used to open portals. Lu has a good cackle over the possibility that the spirits within die painful, permanent deaths in the process. Many a customer's remarked at the glee with which Lu sells her gems, even the cheapest hunk of blue quartz. "It's just that I so enjoy my job," she answers, turning away with apparent modesty (though it's to hide a lascivious grin).
 
-## Appearance and Demeanor
-No one'd guess at the power behind the tiefling. She looks like a weak, elderly, human female, with small horns poking up through thin, silvery hair. Lu's wispy, gray strands curl up at the ends and hang slightly aloft, as if caught in a light breeze. She's known to wear eccentric garb for a tiefling of her years — often a long, fitted, dark green jacket with tails, and leggings of a gray and green pattern that define her spindly form.
-
 Much of her appearance and demeanor is little more than a show to mask her identity as an incantifier. She wears thick, oblong spectacles of darkened glass to hide her telltale shiny silver eyes and make her seem all the more vulnerable and imperfect. She also recently donned leather gloves after an observant customer noticed a light blue glow around her fingertips (the magic inside her spills out sometimes).
 
 Lu hides her natural grace and agility by moving about the shop slowly and clumsily — "Whoops! Another crystal ball for the glass shards bin. Oh, well, one key's as good as another!" And hardly anyone misses the fact that she's always snacking on bones, meat tidbits, or crunchy, roasted insects. She downs the tiefling treats voraciously, even though, as an incantifier, she has no need for food at all.
@@ -35,12 +39,12 @@ For the most part, Lu tries to avoid overtly casting spells in front of others. 
 
 Speaking of magical items, Lu's open about her hunger for acquiring such prized objects. 'Course, she claims she's simply "fascinated" by such wondrous things (as is another well-known tiefling about town, Kylie). Fact is, Lu's been known to hire customers right off the floor to seek out various magical items, or even make a purchase from A'kin at the Friendly Fiend.
 
-## Philosophy and Plans
+## (DM note) Philosophy and Plans
 See, the tiefling's learned from the example of others who've tried to challenge the Lady. Aoskar, self-proclaimed god of portals, now floats on the Astral a withered husk. The Expansionists scattered away a thousand years ago when their blustering factol got tossed into a Maze. Even Lu's own predecessors, the Incanterium, vanished right when they seemed poised to take over the Cage.
 
 Alluvius plans to avoid their mistakes. She will grow in power silently, slowly draining the city itself of its magic, until the vast power of Sigil flows through her blood, is hers to command. And then the Lady'd better watch out.
 
----
+## (DM Note) Stats
 >[!statblocks]
 ># Alluvius Ruskin
 >**Type:** Medium Humanoid (Tiefling, Wizard)
