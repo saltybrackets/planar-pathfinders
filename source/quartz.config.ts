@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "saltybrackets.github.io/planar-pathfinders",
+    baseUrl: "planarpathfinders.teamwhateverman.com",
     ignorePatterns: [
       "private", "templates", ".obsidian",
       "- - -/dungeon_alchemist",
