@@ -1,1 +1,4 @@
-.trash/*
+**/.trash/*
+
+source/node_modules/
+source/public/

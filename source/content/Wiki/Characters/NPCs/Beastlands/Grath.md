@@ -11,12 +11,11 @@ Grath "The Mauler" Kael, a towering wrestler-style lycanthrope who's favorite mo
 > **HP:** 85 (10d10 + 30)  
 > **Speed:** 30 ft. (40 ft. in wolf form) 
 >######
-> **STR** 18 (+4) **DEX** 14 (+2) **CON** 16 (+3)  
+> **STR** 20 (+5) **DEX** 14 (+2) **CON** 16 (+3)  
 > **INT** 10 (+0) **WIS** 11 (+0) **CHA** 10 (+0) 
 >######
-> **Saves:** Str +7, Con +6
-> **Skills:** Athletics +10, Perception +3, Stealth +5 (wolf or hybrid form only)
-> **Damage Immunities:** Bludgeoning, Piercing, and Slashing from Nonmagical Attacks that aren't Silvered
+> **Saves:** Str +8, Con +6
+> **Skills:** Athletics +11, Perception +3, Stealth +5 (wolf or hybrid form only)
 > **Condition Immunities:** Charmed, Frightened (while raging)
 > **Senses:** Darkvision 60 ft., Passive Perception 13  
 > **Languages:** Common (can't speak in wolf form)

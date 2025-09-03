@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "db006ac0f66dc1a5",
+        "id": "980cc3ebc64ae42d",
         "type": "tabs",
         "children": [
           {
-            "id": "14ce2a1dd2e4ab6b",
+            "id": "50419cb636b00485",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "index"
+              "title": "New tab"
             }
           }
         ]
@@ -169,47 +165,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14ce2a1dd2e4ab6b",
+  "active": "50419cb636b00485",
   "lastOpenFiles": [
-    "1. Game/Quests/3. The Crawling God/3. The Crawling God.md",
-    "2. World/Characters/NPCs/Beastlands/Grath.md",
+    "Wiki/Characters/NPCs/Beastlands/Gulpwell the Gluttonous.md",
+    "1. Game/Quests/3. The Crawling God/Map - Yygdrasil Ascent.md",
+    "1. Game/Creatures/Infected Owlbear.md",
     "1. Game/Quests/3. The Crawling God/3b. Infected Yggdrasil Ascent.md",
+    "1. Game/Quests/3. The Crawling God/Map - The Coilroot Expanse.md",
+    "0. DM Screen/Character Sheets/Conradthew Lucius Skullcracker III (Eugene).md",
+    "1. Game/Quests/3. The Crawling God/3. The Crawling God.md",
+    "Wiki/Characters/NPCs/Beastlands/Grath.md",
+    "_attachments/yggdrasil_map.png",
+    "_attachments",
+    "1. Game/Quests/3. The Crawling God/The Journals and Notes of Kythron Vex.md",
+    "1. Game/Quests/3. The Crawling God/2. The Fey Party.md",
+    "0. DM Screen/Character Sheets/Francis Maskanperi (Nessa).md",
+    "index.md",
     "1. Game/Creatures/Swamp-Warped Skrick.md",
     "1. Game/Creatures/Proto-Vegetal Servitor.md",
-    "1. Game/Creatures/Infected Owlbear.md",
-    "1. Game/Quests/Map - The Coilroot Expanse.md",
-    "2. World/Locations/Beastlands/Plesio Lake.md",
-    "2. World/Locations/Beastlands/Stillwater Lake.md",
-    "2. World/Locations/Beastlands/The Lantern Cairn of Dym.md",
+    "Wiki/Locations/Beastlands/Plesio Lake.md",
+    "Wiki/Locations/Beastlands/Stillwater Lake.md",
+    "Wiki/Locations/Beastlands/The Lantern Cairn of Dym.md",
     "2. World/Locations/Beastlands/The Tallowtine Thicket.md",
     "2. World/Locations/Beastlands/The Coilroot Expanse.md",
-    "2. World/Locations/Yygdrasil.md",
+    "Wiki/Locations/Yygdrasil.md",
     "1. Game/Quests/3. The Crawling God/3. The Infection.md",
-    "1. Game/Quests/3. The Crawling God/2. The Fey Party.md",
     "1. Game/Quests/2. Meat Train/Adventure - (Midnight) Meat Train.md",
     "1. Game/Quests/3. The Crawling God/1. Beastlands Entrance.md",
-    "0. DM Screen/Character Sheets/Francis Maskanperi (Nessa).md",
     "0. DM Screen/Character Sheets/Modest Mina (Wren).md",
-    "1. Game/Quests/3. The Crawling God/The Journals and Notes of Kythron Vex.md",
-    "2. World/Characters/NPCs/Beastlands/Gulpwell the Gluttonous.md",
-    "2. World/Locations/Beastlands/Sqeulaiche.md",
-    "1. Game/Magic Items/Verdant Compass.md",
-    "1. Game/Magic Items/Jester's Coin of Fortune.md",
-    "- - -/templates/magicitem.md",
-    "1. Game/Magic Items/Portal Compass.md",
+    "Wiki/Locations/Beastlands/Sqeulaiche.md",
     "- - -/attachments/squelaiche.png",
     "- - -/attachments/gulpwell.png",
     "- - -/attachments/thornwick.png",
     "- - -/attachments/audio logs/Pathfinder 09-08-2024.m4a",
-    "2. World/Locations/Sigil",
-    "2. World/Characters/NPCs/Sigil",
+    "Wiki/Locations/Sigil",
+    "Wiki/Characters/NPCs/Sigil",
     "- - -/attachments/audio logs",
     "- - -/attachments/Audio Logs/Pathfinder 09-08-2024.m4a",
     "- - -/attachments/Audio Logs",
     "- - -/other/Audio Logs/Pathfinder 09-08-2024.m4a",
     "- - -/other/Audio Logs",
     "- - -/other/Planescape Character Background.pdf",
-    "- - -/other/Character Backgrounds.html",
     "0. DM Screen/Character Sheets/Untitled.canvas",
     "0. DM Screen/Untitled.canvas",
     "- - -/maps/tissue_forest_smaller.jpg",
@@ -217,7 +213,6 @@
     "- - -/attachments/francis.png",
     "- - -/attachments/francis_portrait.png",
     "- - -/attachments/conrad_portrait.png",
-    "- - -/attachments/mina_portrait.png",
-    "- - -/attachments/jig_portrait.png"
+    "- - -/attachments/mina_portrait.png"
   ]
 }
