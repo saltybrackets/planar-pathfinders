@@ -1,6 +1,5 @@
 ---
-tags:
-  - public
+publish: true
 ---
 Once the apprentice of [[Kythron Vex]], left alone in [[The Lantern Cairn of Dym]] after his master left and never returned (hundreds of years ago). He has long since forgotten what his master was like, merely that he had one. He can't actually remember if he was an apprentice, or a familiar.
 

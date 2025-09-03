@@ -1,3 +1,6 @@
+---
+publish: true
+---
 You're a treasure trove of information, but not all of it comes from reputable sources. 
 
 - Increase your **Intelligence** score by 1, to a maximum of 20.

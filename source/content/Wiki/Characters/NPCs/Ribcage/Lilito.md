@@ -1,6 +1,5 @@
 ---
-tags:
-  - public
+publish: true
 ---
 An imp that [[Thadeus]] used to pay to draw pictures of naked patrons at the [[Gymnasium of Steam]]. 
 

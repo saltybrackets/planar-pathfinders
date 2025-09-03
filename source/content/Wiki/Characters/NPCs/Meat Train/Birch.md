@@ -1,6 +1,5 @@
 ---
-tags:
-  - public
+publish: true
 ---
 - 7ft tall, muscular build
 - Buzzcut, heavy brows

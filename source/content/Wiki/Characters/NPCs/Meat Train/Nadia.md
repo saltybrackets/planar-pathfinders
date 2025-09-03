@@ -1,3 +1,6 @@
-Gothy woman, wears a classic dress. Caked on makeup, pale, with deep red lipstick, long dark hair. Like Nadja from WWDITS.
+---
+publish: true
+---
+Gothy woman, wears a classic dress. Caked on makeup, pale, with deep red lipstick, long dark hair.
 
-Was killed on the [[Adventure - (Midnight) Meat Train]]
+Was killed on the [[Meat Train]]

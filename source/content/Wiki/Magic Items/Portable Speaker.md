@@ -1,3 +1,6 @@
+---
+publish: true
+---
 **Magic Item** 
 _(Minor, Uncommon)_ 
 - Can endlessly speak a phrase over and over. 

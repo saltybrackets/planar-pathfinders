@@ -1,6 +1,5 @@
 ---
-tags:
-  - public
+publish: true
 ---
 A crumbling stone tower inhabited by a talking animal spirit, [[Dym]], once the familiar of an [[Incantifier]] named [[Kythron Vex]].
 

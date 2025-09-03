@@ -1,6 +1,5 @@
 ---
-tags:
-  - public
+publish: true
 ---
 The Seelie Court (also called the Summer Court) is a pantheon of deities of the fey.
 

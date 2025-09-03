@@ -1,3 +1,6 @@
+---
+publish: true
+---
 Tiefling alchemist. Red hair almost looks like a tumbleweed, dark goggles, smells like lavender. 
 
 Mostly ignores the party, silent. 
@@ -14,4 +17,4 @@ Mumbles Oxford sentences to herself repeatedly, and these might greatly mislead 
     "The empty flask stood on the tin tray."  
     "The birch canoe slid on the smooth planks."
 
-Sinks along with [[Birch]] on the [[Adventure - (Midnight) Meat Train]] into the River Oceanus.
+Sinks along with [[Birch]] on the [[Meat Train]] into the River Oceanus.

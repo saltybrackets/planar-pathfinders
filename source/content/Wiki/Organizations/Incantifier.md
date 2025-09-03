@@ -1,6 +1,5 @@
 ---
-tags:
-  - public
+publish: true
 ---
 Member of a former faction in the old days of Sigil known as the [[Incanterium]]. Also known as "incantifers."
 

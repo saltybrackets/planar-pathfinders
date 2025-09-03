@@ -1,3 +1,6 @@
+---
+publish: true
+---
 **Magic Item** 
 _(Minor, Uncommon)_ 
 - This small wooden compass always points toward the nearest source of fresh water within 1 mile.

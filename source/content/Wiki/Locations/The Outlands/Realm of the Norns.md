@@ -1,6 +1,5 @@
 ---
-tags:
-  - public
+publish: true
 ---
 Fates are spun and severed in the Realm of the Norns, a community of seers who divine meaning from mystical signs across the planes.
 

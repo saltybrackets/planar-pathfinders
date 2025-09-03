@@ -1,6 +1,5 @@
 ---
-tags:
-  - public
+publish: true
 ---
 Grath "The Mauler" Kael, a towering wrestler-style lycanthrope petitioner whose favorite move, "The Glory Hold", is used to assert dominance. Vows vengeance upon the Meat Train that destroyed his village, and the mutated owlbear that took [[Ilyra]]'s hand.
 

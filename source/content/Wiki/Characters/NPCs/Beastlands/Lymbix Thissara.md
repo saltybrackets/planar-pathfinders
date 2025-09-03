@@ -1,6 +1,5 @@
 ---
-tags:
-  - public
+publish: true
 ---
 The brain of the Meat Train sloughed off a portion of its brain at some point, due to it wanting to shed the part of itself that was subservient and fearful. It is friendly toward [[Conrad]] due to his affinity for magic. Is terrified of [[Francis]], having memories of his "mind hacking" of the Meat Train. 
 

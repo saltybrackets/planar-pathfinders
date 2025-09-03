@@ -1,6 +1,5 @@
 ---
-tags:
-  - public
+publish: true
 ---
 ![[ribcage.png]]
 

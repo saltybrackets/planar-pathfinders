@@ -1,6 +1,5 @@
 ---
-tags:
-  - public
+publish: true
 ---
 The **Incanterium** are a faction, turned sect, turned faction once again. They believe that wizardly magic is the secret to the multiverse.
 

@@ -1,6 +1,5 @@
 ---
-tags:
-  - public
+publish: true
 ---
 A necromancer in charge of maintaining undead workers, mostly for the [[Gymnasium of Steam]].
 

@@ -1,6 +1,5 @@
 ---
-tags:
-  - public
+publish: true
 ---
 A lake at the end of a River Oceanus distributary that is home to a tribe of plesiosaurus. The waters have since been corrupted by the [[Meat Train]] as it passed through the distributary (resting there for a bit).
 

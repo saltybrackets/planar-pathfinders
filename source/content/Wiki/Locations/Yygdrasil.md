@@ -1,6 +1,5 @@
 ---
-tags:
-  - public
+publish: true
 ---
 Also know as the "World Ash."
 
