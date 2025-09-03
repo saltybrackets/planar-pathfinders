@@ -49,13 +49,20 @@ export const FrontMatter: QuartzTransformerPlugin<Partial<Options>> = (userOpts)
         [remarkFrontmatter, ["yaml", "toml"]],
         () => {
           return (_, file) => {
-            const { data } = matter(Buffer.from(file.value), {
-              ...opts,
-              engines: {
-                yaml: (s) => yaml.load(s, { schema: yaml.JSON_SCHEMA }) as object,
-                toml: (s) => toml.parse(s) as object,
-              },
-            })
+            let data: any = {}
+            try {
+              const parsed = matter(Buffer.from(file.value), {
+                ...opts,
+                engines: {
+                  yaml: (s) => yaml.load(s, { schema: yaml.JSON_SCHEMA }) as object,
+                  toml: (s) => toml.parse(s) as object,
+                },
+              })
+              data = parsed.data
+            } catch (err) {
+              console.warn(`Warning: Failed to parse frontmatter in ${file.path}: ${err instanceof Error ? err.message : 'Unknown error'}`)
+              data = {}
+            }
 
             if (data.title != null && data.title.toString() !== "") {
               data.title = data.title.toString()
