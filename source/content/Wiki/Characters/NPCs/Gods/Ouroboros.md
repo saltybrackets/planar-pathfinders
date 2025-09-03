@@ -1,3 +1,6 @@
+---
+publish: true
+---
 A forgotten god of cyclical divinity, the embodiment of the Unity of Rings, once worshipped in obscure corners of the multiverse.
 
 **Posibly Related Recursion Symbols:**
