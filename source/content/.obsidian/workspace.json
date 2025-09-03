@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Wiki/Characters/Main/Mina.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Mina"
             }
           }
         ]
@@ -171,6 +171,11 @@
   },
   "active": "295445fd08ed147d",
   "lastOpenFiles": [
+    "Wiki/Characters/Main/Jig.md",
+    "Wiki/Characters/Main/Francis.md",
+    "Wiki/Characters/Main/Conrad.md",
+    "Wiki/Characters/Main/Carolyn's Character.md",
+    "index.md",
     "Wiki/Organizations/Seelie Court.md",
     "Wiki/Organizations/Incanterium.md",
     "Wiki/Organizations/Incantifier.md",
@@ -192,11 +197,6 @@
     "Wiki/Characters/NPCs/Meat Train/Nadia.md",
     "Wiki/Characters/NPCs/Meat Train/Meat Train.md",
     "Wiki/Characters/NPCs/Meat Train/Lazerus.md",
-    "Wiki/Characters/NPCs/Meat Train/Carl Robertson.md",
-    "Wiki/Characters/NPCs/Meat Train/Birch.md",
-    "Wiki/Characters/NPCs/Gods/Ouroboros.md",
-    "Wiki/Characters/NPCs/Beastlands/Thornwick.md",
-    "Wiki/Characters/NPCs/Beastlands/Tarnu.md",
     "Wiki/Lore",
     "- - -/attachments/concordant_express.png",
     "- - -/attachments/yggdrasil_map.png",

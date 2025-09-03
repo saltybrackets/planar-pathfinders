@@ -1,3 +1,6 @@
+---
+publish: true
+---
 >[!infobox]+
 ># Francis Maskanperi
 >![[francis_portrait.png]]

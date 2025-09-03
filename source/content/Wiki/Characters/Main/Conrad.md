@@ -1,3 +1,6 @@
+---
+publish: true
+---
 >[!infobox]+
 ># Full Name
 >![[conrad_portrait.png]]

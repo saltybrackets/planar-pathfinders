@@ -1,3 +1,6 @@
+---
+publish: true
+---
 >[!infobox]+
 ># Jig
 >![[jig_portrait.png]]
