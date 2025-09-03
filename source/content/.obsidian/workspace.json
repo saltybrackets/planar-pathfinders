@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Game/Quests/2. Meat Train/Adventure - (Midnight) Meat Train.md",
+                "file": "The Story Thus Far/0. Prologue.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Adventure - (Midnight) Meat Train"
+              "title": "0. Prologue"
             }
           }
         ]
@@ -169,8 +169,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "df2e5bc5257870f2",
+  "active": "295445fd08ed147d",
   "lastOpenFiles": [
+    "The Story Thus Far/2. Midnight Meat Train.md",
+    "The Story Thus Far/1. Plumbing Problems in Ribcage.md",
+    "The Story Thus Far/0. Prologue.md",
+    "1. Game/Quests/2. Meat Train/Adventure - (Midnight) Meat Train.md",
     "Wiki/Lore/Gods/The Crawling God.md",
     "Wiki/Characters/NPCs/Meat Train/Meat Train.md",
     "Wiki/Characters/NPCs/Meat Train/Ramon.md",
@@ -193,10 +197,6 @@
     "Wiki/Locations/Beastlands/The Lantern Cairn of Dym.md",
     "Wiki/Locations/Beastlands/Stillwater Lake.md",
     "Wiki/Locations/Beastlands/Plesio Lake.md",
-    "Wiki/Feats/Dubious Knowledge.md",
-    "Wiki/Characters/NPCs/Sigil/Alluvius Ruskin.md",
-    "Wiki/Characters/NPCs/Ribcage/Thadeus.md",
-    "Wiki/Characters/NPCs/Ribcage/Reginald Pipefitter.md",
     "Wiki/Lore",
     "- - -/attachments/concordant_express.png",
     "- - -/attachments/yggdrasil_map.png",
