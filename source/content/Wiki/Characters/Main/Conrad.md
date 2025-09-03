@@ -2,7 +2,7 @@
 publish: true
 ---
 >[!infobox]+
-># Full Name
+># Conradthew Lucius Skullcracker III
 >![[conrad_portrait.png]]
 >###### Stats
 >Type|Stat|
