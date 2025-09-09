@@ -10,15 +10,33 @@
           {
             "id": "295445fd08ed147d",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Story Thus Far/0. Prologue.md",
+                "file": "The Story Thus Far/2. Midnight Meat Train.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "0. Prologue"
+              "title": "2. Midnight Meat Train"
+            }
+          },
+          {
+            "id": "2eea47a648120822",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Game/Quests/2. Meat Train/Adventure - (Midnight) Meat Train.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Adventure - (Midnight) Meat Train"
             }
           }
         ]
@@ -171,10 +189,12 @@
   },
   "active": "295445fd08ed147d",
   "lastOpenFiles": [
-    "The Story Thus Far/2. Midnight Meat Train.md",
-    "The Story Thus Far/1. Plumbing Problems in Ribcage.md",
-    "The Story Thus Far/0. Prologue.md",
     "1. Game/Quests/2. Meat Train/Adventure - (Midnight) Meat Train.md",
+    "The Story Thus Far/2. Midnight Meat Train.md",
+    "Wiki/Characters/NPCs/Meat Train/Seraphine Stillblood.md",
+    "Wiki/Magic Items/Portable Speaker.md",
+    "The Story Thus Far/0. Prologue.md",
+    "The Story Thus Far/1. Plumbing Problems in Ribcage.md",
     "Wiki/Lore/Gods/The Crawling God.md",
     "Wiki/Characters/NPCs/Meat Train/Meat Train.md",
     "Wiki/Characters/NPCs/Meat Train/Ramon.md",
@@ -195,8 +215,6 @@
     "Wiki/Organizations/Cult of Ouroboros.md",
     "Wiki/Locations/Sigil/Tivvum's Antiquities.md",
     "Wiki/Locations/Beastlands/The Lantern Cairn of Dym.md",
-    "Wiki/Locations/Beastlands/Stillwater Lake.md",
-    "Wiki/Locations/Beastlands/Plesio Lake.md",
     "Wiki/Lore",
     "- - -/attachments/concordant_express.png",
     "- - -/attachments/yggdrasil_map.png",
