@@ -38,8 +38,23 @@
               "icon": "lucide-file",
               "title": "Adventure - (Midnight) Meat Train"
             }
+          },
+          {
+            "id": "fdae4a6919c350c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Story Thus Far/3. Enter the Beastlands.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "3. Enter the Beastlands"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -187,14 +202,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "295445fd08ed147d",
+  "active": "fdae4a6919c350c7",
   "lastOpenFiles": [
-    "1. Game/Quests/2. Meat Train/Adventure - (Midnight) Meat Train.md",
     "The Story Thus Far/2. Midnight Meat Train.md",
+    "The Story Thus Far/3. Enter the Beastlands.md",
+    "Wiki/Characters/NPCs/Beastlands/Gulpwell the Gluttonous.md",
+    "Wiki/Locations/Beastlands/The Lantern Cairn of Dym.md",
+    "The Story Thus Far/0. Prologue.md",
+    "CLAUDE.md.tmp.12106.1766860076942",
+    "CLAUDE.md.tmp.12106.1766860068019",
+    "CLAUDE.md",
+    "Untitled Document",
+    "The Story Thus Far/1. Plumbing Problems in Ribcage.md",
+    "- - -/templates/adventure.md",
+    "- - -/templates/character.md",
+    "- - -/templates/magicitem.md",
+    "- - -/templates/statblock.md",
+    "1. Game/Quests/2. Meat Train/Adventure - (Midnight) Meat Train.md",
     "Wiki/Characters/NPCs/Meat Train/Seraphine Stillblood.md",
     "Wiki/Magic Items/Portable Speaker.md",
-    "The Story Thus Far/0. Prologue.md",
-    "The Story Thus Far/1. Plumbing Problems in Ribcage.md",
     "Wiki/Lore/Gods/The Crawling God.md",
     "Wiki/Characters/NPCs/Meat Train/Meat Train.md",
     "Wiki/Characters/NPCs/Meat Train/Ramon.md",
@@ -207,14 +233,6 @@
     "Wiki/Characters/Main/Jig.md",
     "Wiki/Characters/Main/Francis.md",
     "Wiki/Characters/Main/Conrad.md",
-    "Wiki/Characters/Main/Carolyn's Character.md",
-    "index.md",
-    "Wiki/Organizations/Seelie Court.md",
-    "Wiki/Organizations/Incanterium.md",
-    "Wiki/Organizations/Incantifier.md",
-    "Wiki/Organizations/Cult of Ouroboros.md",
-    "Wiki/Locations/Sigil/Tivvum's Antiquities.md",
-    "Wiki/Locations/Beastlands/The Lantern Cairn of Dym.md",
     "Wiki/Lore",
     "- - -/attachments/concordant_express.png",
     "- - -/attachments/yggdrasil_map.png",
@@ -227,9 +245,6 @@
     "Wiki/Characters/NPCs/Sigil",
     "- - -/attachments/audio logs",
     "- - -/attachments/Audio Logs/Pathfinder 09-08-2024.m4a",
-    "- - -/attachments/Audio Logs",
-    "- - -/other/Audio Logs/Pathfinder 09-08-2024.m4a",
-    "- - -/other/Audio Logs",
     "0. DM Screen/Character Sheets/Untitled.canvas",
     "0. DM Screen/Untitled.canvas",
     "- - -/maps/tissue_forest_smaller.jpg",
