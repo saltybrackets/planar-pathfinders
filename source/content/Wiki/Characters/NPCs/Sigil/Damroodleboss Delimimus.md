@@ -13,3 +13,5 @@ publish: true
 ## Background
 
 A high-level wizard. Operates a planar tuning fork operation in [[Sigil]], located in the [[Sandstone District]] of the [[Clerk's Ward]]. Grumpy and direct. Runs an information brokerage alongside his primary business of selling tuning forks and planar artifacts.
+
+- 

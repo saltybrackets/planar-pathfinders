@@ -1,1 +1,3 @@
-[[Ouroboros]]
+- Splintered off of [[Order 27]].
+-  Worship the mysterious [[Ouroboros]], whom they believe to be the Demiurge, residing within the [[Ordial Plane]].
+- While Order 27 seeks a means to the Ordial via the [[Temporal Energy Plane]], the cult seeks to reach it instead by appealing to dangerous entities from [[The Far Realm]].

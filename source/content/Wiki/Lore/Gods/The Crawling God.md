@@ -12,3 +12,7 @@ The party eventually discovered the brain of the train had shed its metallic tra
 Along the way, sources of water the brain remained in too long became infected, causing animals exposed to it to mutate and become aggressive.
 
 The brain eventually made its way to the World Ash, [[Yygdrasil]], burrowing its way inside and slowly infecting the very tree itself. By the time the party made it to the tree (three months later), and made it to pool where the brain was "incubating," they discovered the brain had grown a new body, something amphibious with three sets of eyes set in a column.
+
+## (DM Only) Schemes
+- Francis is now a sleeper agent, with an offer to remove his Geas via the aboleth's power.
+- Grath is now a thrall to the aboleth and may encounter the party again as an enemy.

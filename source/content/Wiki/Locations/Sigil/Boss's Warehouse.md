@@ -4,7 +4,7 @@ publish: true
 
 # Boss's Warehouse
 
-[[Damroodleboss Delimimus|Boss]]'s storage facility, separate from his storefront at [[Fork Off]]. The warehouse drifts between the Market Ward and the Clerk's Ward—it has a mind of its own, seemingly unable to decide which ward is more appropriate for itself.
+[[Damroodleboss Delimimus|Boss]]'s storage facility, separate from his storefront at [[Fork Off]]. The warehouse drifts (or rather, the entrance drifts) between the Market Ward and the Clerk's Ward—it has a mind of its own, seemingly unable to decide which ward is more appropriate for itself.
 
 Most folk in Sigil avoid it. The hum it produces has given it a reputation for being haunted.
 
@@ -19,6 +19,9 @@ This sapience wasn't designed. Over millennia, countless magical items have circ
 The warehouse emits a distinct hum audible from blocks away whenever it has drifted and is waiting to be found. The pitch shifts depending on which ward it's currently in—higher and sharper near the Clerk's Ward, lower and deeper near the Market Ward. The hum stops once someone it recognizes enters.
 
 Most residents who have heard it assume the building is haunted. They are not entirely wrong.
+
+## (DM Only) The Dark of It
+The real reason the entrance of the warehouse moves so frequently is because it was originally meant to be a boarding house. This is why it sometimes creates rooms for folks - it can intuit when folks inside it are homeless.
 
 ## Physical Layout
 
