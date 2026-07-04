@@ -1,0 +1,1 @@
+He was Azhuras instructor and fatherly figure during the time she was training to be a paladin when she was at Bahamuts monastery. Died during the burning down of [[Bahamut]]'s monastery at [[Infernias]] hands a year or so ago.

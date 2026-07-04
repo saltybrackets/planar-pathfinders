@@ -1,0 +1,1 @@
+She is about as old as Azhura, she was always competing with Azhura and there is a significant rivalrly between the two. Just as Azhura is close to Astaroth, Infernia is close to Ashra.

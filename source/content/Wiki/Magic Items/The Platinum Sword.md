@@ -1,0 +1,1 @@
+A holy relic of [[Bahamut]] said to possess the power to sever even curses laid by gods.

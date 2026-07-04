@@ -1,0 +1,1 @@
+Elder sister, she hates Azhura for her relation to Astaroth and it's the main one in charge of hunting her down.

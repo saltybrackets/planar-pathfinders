@@ -1,0 +1,1 @@
+Member of the cult of the dragon and minion of Skaerth, he is somewhat obsessed with making Azhura his since it would be a way for him to get into the clan properly, not that the other dragons care about that but he makes for a useful minion to their schemes.
