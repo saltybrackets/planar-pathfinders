@@ -1,1 +1,0 @@
-- A kind of non-euclidean existence: Hyperbolic.

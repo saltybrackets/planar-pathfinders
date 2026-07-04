@@ -1,1 +1,0 @@
-- Conduit through which consciousness and belief feed the Outer Planes.

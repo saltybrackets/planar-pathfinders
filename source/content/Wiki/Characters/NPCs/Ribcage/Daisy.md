@@ -1,4 +1,0 @@
----
-publish: true
----
-Proprieter of the Gymnasium of Steam, runs the bar. Appears to be an orc?

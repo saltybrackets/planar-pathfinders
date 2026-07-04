@@ -1,9 +1,0 @@
-- AKA "The Plane of Proof"
-- AKA "The Noumenal Plane"
-- Means by which information dictates reality
-- Theoretically, a realm of pure information (not to be confused with the [[Astral Plane]], which is a realm of pure thought).
-- Access may require an "exercise of the axiomatic," which can take a number of forms:
-	- Solve the "Parallel Postulate" 
-		- [[Ouroboros]] can do this, as they are considered elliptic in nature. This route would be considered safer, but also far more difficult, as the only trace left of this god is a corpse in the [[Temporal Energy Plane]].
-		- from [[The Far Realm]] could also theoretically do this, as they are considered hyperbolic in nature. This route would be considered far more dangerous, but also much easier/quicker than the Temporal route.
-	- 
