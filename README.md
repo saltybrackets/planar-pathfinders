@@ -10,6 +10,16 @@ Full tutorial with screenshots & videos: https://dev.to/defenderofbasic/host-you
 
 It's basically (1) fork this (2) go to repo's "Settings" > "Pages", Under "Build and Deployment" select GitHub Actions. Then go to "Actions" and enable GitHub actions for your fork. Edit the pages in [source/content](./source/content) with Obsidian or any text editor. It generates HTML using [Quartz](https://github.com/jackyzha0/quartz). To generate the HTML locally, run `npx quartz build --serve` in `./source/`
 
+## Updating content
+
+`source/content` is pulled in from a separate local git repo (the Planar Pathfinders Obsidian vault) via `git subtree`, not edited directly in this repo. To pull in new content after editing/committing changes in the vault, run:
+
+```
+./scripts/pull-content.sh
+```
+
+This requires a clean working tree (commit or stash other changes first) and runs `git subtree pull --prefix=source/content <vault repo path> main --squash` under the hood.
+
 ## Raw HTML pages
 
 There is a [source/raw_html](./source/raw_html) folder that gets copied into the build folder in CI. This lets you host arbitrary HTML outside of quartz. Example: https://defenderofbasic.github.io/obsidian-quartz-template/raw-html-test.html
