@@ -1,0 +1,20 @@
+{
+  "ITS@@slrvb-b": false,
+  "ITS@@its-d": false,
+  "ITS@@paper": true,
+  "ITS@@ITS-Sizes": "sizing-mini",
+  "ITS@@radius-s": 1,
+  "ITS@@lig": true,
+  "ITS@@slrvb-g": false,
+  "ITS@@mini": false,
+  "ITS@@nord": false,
+  "ITS@@select": "wotc-beyond",
+  "ITS@@notion": false,
+  "ITS@@drwn": false,
+  "ITS@@t-d": false,
+  "ITS@@s-d": false,
+  "ITS@@writing": false,
+  "ITS@@disable-source-styling": false,
+  "ITS@@heading-indicator": false,
+  "ITS@@accent-color": false
+}

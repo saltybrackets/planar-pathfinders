@@ -1,0 +1,1 @@
+You may take a Bonus Action to cause your clothes/armor to assume the appearance of a normal set of clothing or armor. You decide what it looks like -- including color, style, and accessories -- but any armor retains its normal bulk and weight. The illusory appearance lasts until you use this property again or doff the clothes/armor.

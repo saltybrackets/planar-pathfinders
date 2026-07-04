@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "d970d575572f0b74",
+    "type": "split",
+    "children": [
+      {
+        "id": "63e9ec85234a73fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd9c439f3aa2f5f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wiki/Lore/Gods/Tiamat.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tiamat"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "370291e0bfef5e52",
+    "type": "split",
+    "children": [
+      {
+        "id": "97378a364e3bdc00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df2e5bc5257870f2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f3677f4f96f70c42",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "34e326acca63c968",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2f688e83b14f7b43",
+    "type": "split",
+    "children": [
+      {
+        "id": "873673be04e54834",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97e73a28483ba7db",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2. World/Story/2. (Midnight) Meat Train.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2. (Midnight) Meat Train"
+            }
+          },
+          {
+            "id": "6cf50aa2fe32c87a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "World/Story/1. Plumbing Problems in Ribcage.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 1. Plumbing Problems in Ribcage"
+            }
+          },
+          {
+            "id": "f0dd8fec7d5680cf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "91d3ca2ebc57c292",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "World/Story/1. Plumbing Problems in Ribcage.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 1. Plumbing Problems in Ribcage"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "dd9c439f3aa2f5f9",
+  "lastOpenFiles": [
+    "Wiki/Lore/Gods/The Crawling God.md",
+    "Wiki/Lore/Gods/Tiamat.md",
+    "Wiki/Lore/Creatures/Spellweaver.md",
+    "Wiki/Organizations/Church of Tiamat.md",
+    "Wiki/Lore/Creatures/Spellweaver.md.tmp.27618.c3e1ccfd0b91",
+    "Wiki/Lore/Creatures",
+    "Wiki/Organizations/Cult of the Dragon.md",
+    "Wiki/Lore/Gods/Bahamut.md",
+    "Wiki/Organizations/Church of Tiamat.md.tmp.27618.8e9bacb225dd",
+    "Wiki/Organizations/Cult of the Dragon.md.tmp.27618.dc084e716561",
+    "Wiki/Lore/Gods/Bahamut.md.tmp.27618.8741b3dda957",
+    "Wiki/Lore/Gods/Tiamat.md.tmp.27618.364bd8172087",
+    "Wiki/Characters/Main/Azhura.md",
+    "0. DM Screen/SCRATCH.md",
+    "Wiki/Characters/NPCs/Toril/The Sword Coast/Sir Garrick.md",
+    "Wiki/Characters/NPCs/Toril/The Sword Coast/Astaroth.md",
+    "index.md",
+    "Wiki/Magic Items/The Platinum Sword.md",
+    "Wiki/Organizations/Incanterium.md",
+    "Wiki/Locations/Realmspace/Toril/Untitled",
+    "Wiki/Locations/Realmspace/Toril/Faerun",
+    "Wiki/Locations/Realmspace/Toril",
+    "Wiki/Locations/Realmspace",
+    "Wiki/Locations/Realmspace/Toril/Sword Mountains.md",
+    "Wiki/Organizations/The Order of Bahamut.md",
+    "Wiki/Characters/NPCs/Toril/The Sword Coast/Skaerth.md",
+    "Wiki/Organizations/The Crimson Flame Clan.md",
+    "Wiki/Characters/NPCs/Toril/The Sword Coast/Ashra.md",
+    "Wiki/Characters/NPCs/Toril/The Sword Coast/Lord Halvern.md",
+    "Wiki/Characters/NPCs/Toril/The Sword Coast/Infernia.md",
+    "Wiki/Magic Items/Amulet of Bahamut.md",
+    "Wiki/Characters/Main/Conrad.md",
+    "Wiki/Characters/Main/Francis.md",
+    "Wiki/Characters/Main/Taxi.md",
+    "- - -/attachments/taxi_portrait.png",
+    "- - -/attachments/boss.jpg",
+    "- - -/attachments/azhura_portrait.png",
+    "Wiki/Characters/Main/Carolyn's Character.md",
+    "0. DM Screen/Character Sheets/Corvus (Wren).md",
+    "- - -/attachments/concordant_express.png",
+    "- - -/attachments/yggdrasil_map.png",
+    "- - -/attachments/squelaiche.png",
+    "- - -/attachments/gulpwell.png",
+    "- - -/attachments/thornwick.png",
+    "0. DM Screen/Character Sheets/Untitled.canvas",
+    "0. DM Screen/Untitled.canvas",
+    "- - -/maps/tissue_forest_smaller.jpg",
+    "- - -/maps/tissue_forest.jpg"
+  ]
+}

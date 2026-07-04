@@ -1,0 +1,1 @@
+Elder brother and heir, somewhat sympathetic to Azhura but ultimately loyal to the clan, he may become an unexpected ally at times

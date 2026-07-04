@@ -1,0 +1,1 @@
+A being from [[The Far Realm]], who is hyperbolic in nature (sort of the opposite of recursive).
