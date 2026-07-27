@@ -82,7 +82,11 @@ const config: QuartzConfig = {
       Plugin.RemoveDMHeaderSections(),
       Plugin.Latex({ renderEngine: "katex" }),
     ],
-    filters: [Plugin.RemoveDrafts(), Plugin.ExplicitPublish()],
+    filters: [
+      Plugin.RemoveDrafts(),
+      Plugin.ExplicitPublish(),
+      Plugin.RequireTag({ tag: "planar-pathfinders" }),
+    ],
     emitters: [
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
