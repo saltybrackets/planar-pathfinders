@@ -1,40 +1,43 @@
-## Setup  
+---
+publish: false
+tags:
+---
+## At a Glance  
 
 - Hook
 - Outline
 
 ---
-## Treasure
-
-- Money
-- [[Magic Item]] (Minor, Uncommon)
-	- Details
-
----
-## Cast 
-
-- [[Character]]: Description 
-
-- [[Character]]: Description 
-
----
-## Objectives  
-
-- Objective
-- Objective
-
----
 ## Scenes / Encounters
 
-- Event
- 
-- Event
+### Opening scene
+> *Opening scene*
+
+### Event
+Event details
+
+### Event
+Event details
 
 ---
-## Locations
+## Treasure
 
-*Special notes*
+- **Gold:** 123
+- **Mundane Items:**
+	- Item1
+	- Item2
+- **Magic Items:***
+	- [[Magic Item]]
+	- [[Magic Item]]
 
-- **Location:** Description 
+---
+## Cast Index
 
-- **Location:** Description
+- **[[Character]]:** Quick description 
+- **[[Character]]:** Quick description 
+
+---
+## Location Index
+
+- **[[Location]]:** Description 
+- **[[Location]]:** Description

@@ -1,3 +1,8 @@
+---
+publish: false
+tags:
+  - planar-pathfinders
+---
 A secret way of indicating what the contents of a building contains.
 
 Some known ones that can be found on the Scratch Wall.

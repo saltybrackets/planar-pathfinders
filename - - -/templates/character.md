@@ -1,3 +1,7 @@
+---
+publish: false
+tags:
+---
 >[!infobox]+
 ># Full Name
 >![[mina_portrait.png]]
