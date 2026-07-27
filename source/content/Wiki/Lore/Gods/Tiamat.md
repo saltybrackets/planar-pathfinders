@@ -3,6 +3,9 @@ publish: false
 tags:
   - wandering-tits
 ---
+
+- Look up: Horde of the Dragon Queen adventure (5E)
+
 Tiamat is the chaotic evil and lawful evil dragon goddess of greed, queen of evil dragons and, for a time, reluctant servant of the greater gods Bane and later Asmodeus. Before entering the Faerûnian pantheon, she was a member of the Draconic pantheon, and for some time she was also a member of the Untheric pantheon.
 
 Tiamat is also the eternal rival of her brother Bahamut, ruler of the good metallic dragons. Despite their enmity, legends hold that they once worked together to create the *First World*, which laid the foundation for Annam to forge the Material Plane.
@@ -68,7 +71,7 @@ Inhabitants of the Outer Planes note that Tiamat is extremely similar to Takhisi
 
 Tiamat has a reputation amongst the people of the state of Unther for battling with the other members of their pantheon, and is blamed for every one of the many setbacks Unther experienced. This later became an advantage when Gilgeam's behavior served to foment rebellion against him and those rebels began to worship her, eventually creating an organized church.
 
-Tiamat has made inroads into the Cult of the Dragon and claims some members as her worshipers. Also, for fifteen years, the Karanok family of Luthcheq unwittingly served Tiamat while worshiping the primordial Entropy. Tiamat transformed Entropy into a conduit for her power and gained the Karanoks as pawns.
+Tiamat has made inroads into the [[Cult of the Dragon]] and claims some members as her worshipers. Also, for fifteen years, the Karanok family of Luthcheq unwittingly served Tiamat while worshiping the primordial Entropy. Tiamat transformed Entropy into a conduit for her power and gained the Karanoks as pawns.
 
 Many evil dragons have worshiped Tiamat since their species first appeared on Toril, and kobolds believe she is their creator, and although they don't worship her as a god, they revere her as their creator. After the Spellplague, she also gained a few dragonborn followers.
 
@@ -76,7 +79,7 @@ Many evil dragons have worshiped Tiamat since their species first appeared on To
 Tiamat accepts only evil clerics. They, like Tiamat herself, seek to place the world under the domination of evil dragons.
 
 ### Church of Tiamat
-The church of Tiamat is regimented by a strict hierarchy of ranks and titles. Her clerics are occupied by the twin tasks of acquiring an ever-increasing hoard of wealth for the faith and sabotaging the faiths of other deities. As a result, they occupy most of their time with an unending series of thefts, assassinations, acts of vandalism, and arson. In Unther and Chessenta they are primarily concerned with seizing as much power as possible, while in western Faerûn, the cult's agents are focused on subverting the Cult of the Dragon.
+The [[Church of Tiamat]] is regimented by a strict hierarchy of ranks and titles. Her clerics are occupied by the twin tasks of acquiring an ever-increasing hoard of wealth for the faith and sabotaging the faiths of other deities. As a result, they occupy most of their time with an unending series of thefts, assassinations, acts of vandalism, and arson. In Unther and Chessenta they are primarily concerned with seizing as much power as possible, while in western Faerûn, the cult's agents are focused on subverting the Cult of the Dragon.
 
 ## Weaknesses
 Tiamat is ontologically distinct from the gods that hail from the Outer Planes, rendering her True Form vulnerable to discorporation by mighty mortals.

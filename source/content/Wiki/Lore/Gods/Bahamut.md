@@ -1,5 +1,7 @@
 ---
 publish: false
+tags:
+  - wandering-tits
 ---
 Bahamut is the dragon god of justice and a subservient deity to Torm, god of law. Before entering the Faerûnian pantheon, he was a member of the Draconic pantheon, as a deity of good dragons, metallic dragons, wisdom, and enlightened justice (justice tempered with mercy and punishment with forgiveness) known by the name of Xymor. For some time, he was also a member of the Untheric pantheon, under the alias of Marduk.
 

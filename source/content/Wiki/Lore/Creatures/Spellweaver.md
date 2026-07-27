@@ -1,3 +1,8 @@
+---
+publish: false
+tags:
+  - wandering-tits
+---
 Spellweavers (properly "Spell Weavers," sometimes miswritten as one word) are a strange, highly intelligent humanoid species native to another Prime Material plane entirely. They once ruled a multiverse-spanning empire built on an unmatched command of arcane magic, before that empire collapsed in a single catastrophic event.
 
 ## Description

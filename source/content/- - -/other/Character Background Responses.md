@@ -1,4 +1,4 @@
-# D&D Character Sheets
+# D&D Character Details
 
 ## Conradthew Lucius Skullcracker III
 *Created: 12/2/2024 22:26*
