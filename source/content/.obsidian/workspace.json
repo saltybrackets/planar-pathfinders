@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "d970d575572f0b74",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c2bee97ec181793",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51793031345ca5e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wiki/Characters/Main/Quinsley.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Quinsley"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "370291e0bfef5e52",
+    "type": "split",
+    "children": [
+      {
+        "id": "97378a364e3bdc00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df2e5bc5257870f2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f3677f4f96f70c42",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "34e326acca63c968",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2f688e83b14f7b43",
+    "type": "split",
+    "children": [
+      {
+        "id": "873673be04e54834",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97e73a28483ba7db",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Wiki/Characters/Main/Quinsley.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Quinsley"
+            }
+          },
+          {
+            "id": "6cf50aa2fe32c87a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "World/Story/1. Plumbing Problems in Ribcage.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 1. Plumbing Problems in Ribcage"
+            }
+          },
+          {
+            "id": "f0dd8fec7d5680cf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "91d3ca2ebc57c292",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "World/Story/1. Plumbing Problems in Ribcage.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 1. Plumbing Problems in Ribcage"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
+    }
+  },
+  "active": "51793031345ca5e7",
+  "lastOpenFiles": [
+    "1. Game/Quests/The Wandering Tits/1. Into the Gullet/Map - Demiplanar Donjon.md",
+    "1. Game/Quests/The Wandering Tits/1. Into the Gullet/Adventure - Into the Gullet.md",
+    "- - -/maps/tissue_forest_smaller.jpg",
+    "- - -/maps/demiplanar_donjon.png",
+    "- - -/maps/sword-coast.jpg",
+    "1. Game/Quests/The Wandering Tits/1. Into the Gullet",
+    "1. Game/Quests/The Wandering Tits/1. Into the Gullet.md.tmp.18728.d89293bf7114",
+    "Wiki/Lore/The Journals and Papers of Ashyra Veil.md",
+    "Wiki/Characters/NPCs/Astral Plane/Ashyra Veil.md.tmp.18728.806a6b521723",
+    "Wiki/Lore/The Journals and Papers of Ashyra Veil.md.tmp.18728.a994a2f5a32c",
+    "1. Game/Quests/The Wandering Tits/1. Into the Gullet.md.tmp.18728.4575afd81f77",
+    "1. Game/Quests/The Wandering Tits/1. Into the Gullet.md.tmp.18728.3aafd1c31f50",
+    "1. Game/Quests/The Wandering Tits/1. Into the Gullet.md.tmp.18728.f5051d3eeecb",
+    "1. Game/Quests/The Wandering Tits/1. Into the Gullet.md.tmp.18728.0a8c4004ae36",
+    "Wiki/Organizations/Order of Bahamut.md",
+    "Wiki/Characters/Main/Azhura.md",
+    "Wiki/Locations/Realmspace/Toril/The Wandering Tit.md",
+    "The Story Thus Far/The Wandering Tits - Azhura's Journal/0. Into the Gullet.md",
+    "Wiki/Characters/Main/Mantis.md",
+    "Wiki/Locations/Realmspace/Toril/Underleaf.md",
+    "Wiki/Characters/NPCs/Toril/The Sword Coast/Ashra.md",
+    "Wiki/Characters/NPCs/Toril/The Sword Coast/Valraxis.md",
+    "Wiki/Characters/NPCs/Toril/The Sword Coast/Vaelithrax.md",
+    "Wiki/Characters/NPCs/Toril/The Sword Coast/Skaerth.md",
+    "Wiki/Characters/NPCs/Toril/The Sword Coast/Sister Mary.md",
+    "Wiki/Characters/NPCs/Toril/The Sword Coast/Sir Garrick.md",
+    "Wiki/Characters/NPCs/Toril/The Sword Coast/Pyravyl.md",
+    "Wiki/Characters/NPCs/Toril/The Sword Coast/Lord Halvern.md",
+    "Wiki/Characters/NPCs/Toril/The Sword Coast/Infernia.md",
+    "Wiki/Characters/NPCs/Toril/The Sword Coast/Harka.md",
+    "Wiki/Characters/NPCs/Toril/The Sword Coast/Cinder.md",
+    "1. Game/Species/Half-Tabaxi.md",
+    "The Story Thus Far/Planar Pathfinders/4. Sigil Shopping Spree.md",
+    "The Story Thus Far/Planar Pathfinders/0. Prologue.md",
+    "The Story Thus Far/The Wandering Tits - Azhura's Journal",
+    "The Story Thus Far/Planar Pathfinders",
+    "Wiki/Characters/Main/Quinsley.md",
+    "Wiki/Locations/Realmspace/Toril/Misty Forest.md",
+    "_attachments/Pasted image 20260704144008.png",
+    "- - -/attachments/toktok_portrait.png",
+    "- - -/attachments/taxi_portrait.png",
+    "- - -/attachments/boss.jpg",
+    "- - -/attachments/azhura_portrait.png",
+    "- - -/attachments/concordant_express.png",
+    "- - -/attachments/yggdrasil_map.png",
+    "0. DM Screen/Character Sheets/Untitled.canvas",
+    "0. DM Screen/Untitled.canvas"
+  ]
+}
