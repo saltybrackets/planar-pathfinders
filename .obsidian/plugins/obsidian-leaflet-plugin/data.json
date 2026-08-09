@@ -1,0 +1,155 @@
+{
+  "mapMarkers": [
+    {
+      "id": "demiplanar-donjon-map",
+      "lastAccessed": 1785819881639,
+      "markers": [
+        {
+          "id": "ID_baeb1a1889d8",
+          "type": "default",
+          "loc": [
+            199.4041122946064,
+            606.6976182580578
+          ],
+          "link": "Adventure - Into the Gullet#The Sealed Chamber (arrival in the donjon)",
+          "layer": "%5B%5Bdemiplanar_donjon.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5124135289341705,
+            -0.09383722931510889
+          ],
+          "description": "The Sealed Chamber",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4b583bba899b",
+          "type": "default",
+          "loc": [
+            572.0714830668289,
+            608.8189386016173
+          ],
+          "link": "Adventure - Into the Gullet#The Courtyard (beyond the sealed chamber's door)",
+          "layer": "%5B%5Bdemiplanar_donjon.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Courtyard",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_eb38990bebcb",
+          "type": "default",
+          "loc": [
+            973.708134780788,
+            601.7478707897519
+          ],
+          "link": "Adventure - Into the Gullet#The Main Hallway (corridor/gallery)",
+          "layer": "%5B%5Bdemiplanar_donjon.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Main Hallway",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fab98a89ab88",
+          "type": "default",
+          "loc": [
+            1417.7711933659398,
+            447.59859249108456
+          ],
+          "link": "Adventure - Into the Gullet#Storage Room",
+          "layer": "%5B%5Bdemiplanar_donjon.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Storage Room",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_59982918aa08",
+          "type": "default",
+          "loc": [
+            1402.2148441798358,
+            753.068721963673
+          ],
+          "link": "Adventure - Into the Gullet#Ashyra's Study",
+          "layer": "%5B%5Bdemiplanar_donjon.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Ashyra's Room",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a97aca4b398b",
+          "type": "default",
+          "loc": [
+            1802.4372823314216,
+            611.6473657263635
+          ],
+          "link": "Adventure - Into the Gullet#The Boss Room",
+          "layer": "%5B%5Bdemiplanar_donjon.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Boss Room",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "1. Game/Quests/The Wandering Tits/1. Into the Gullet/Map - Demiplanar Donjon.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "6.0.5",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 5
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {},
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}
