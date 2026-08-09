@@ -198,6 +198,8 @@ If the party tries to save any patrons during the Crimson Flame attack, some may
 
 > The rat, still clutching the stolen portal key, suddenly freezes and starts to cower -- then convulses, its silhouette bulging wrong in the dim light. Its spine arches until something audibly gives; skin splits along its back in a wet tear, and rather than blood, thick ropes of pale, wriggling tissue spill out and immediately begin to *grow*, doubling and redoubling in mass in seconds. The rat's own skull distends and cracks open like an egg from the inside as a second mass tears free of the first with a sound like a wet cloth ripping -- two roughly spherical, glistening bodies now, each already sprouting a ring of mismatched eyes and mouths that open and start gibbering nonsense before the transformation has even finished. What's left of the original rat is indistinguishable in the mess.
 
+- **The door slams and the room seals:** the birth itself does it -- a wave of pressure and loosed ichor rolls out from the two new mouthers as they tear free of each other, slamming the chamber door shut behind the party (DC 20 Athletics/Acrobatics to pull free if still in the doorway) and hauling anyone lingering near the threshold bodily back inside on a lash of wet, half-formed tendrils that retract into the mouthers themselves the instant the door seals. No one gets to simply hang back and watch.
+
 #### The Gibbering Mouthers (stat block)
 > What's left of the husk rat is two roughly spherical masses now, glistening and wet, each ringed with mismatched eyes that never blink in unison and mouths that never stop moving -- muttering, giggling, chewing at the air -- like something tried to build a chorus out of parts that were never meant to speak.
 
@@ -214,25 +216,36 @@ If the party tries to save any patrons during the Crimson Flame attack, some may
 - **Blinding Spittle (Recharge 5-6):** each creature in a 10-foot-radius sphere within 30 ft. must succeed on a DC 10 Dexterity save or take 7 (2d6) radiant damage and be blinded until the end of the mouther's next turn.
 
 
-### The Face Reveal
+### Phase 1 -- The Eye Opens
 The wall stays just a wall -- more blight-crusted stone, nothing more -- until the first gibbering mouther dies. Read the following once that happens:
 
-  > *For a moment, nothing -- then the room's breathing catches, like something inhaling sharply through its teeth. One by one, the wall gives back what it swallowed. Old Maud's knitting needles push through first, followed by Maud herself, dragged out of the stone waist-first. Tobin unpeels from the ceiling near the door, boots dangling, laces  untied. Garrek tears loose from the wall beside you shoulder-first, too big for the gap he comes out of, the stone stretching and splitting to let him through. Renn Vask comes last, and slowest, and he's still grinning, rings blackened with rot, like some part of him hasn't caught up to what's happening yet.*
+  > *For a moment, nothing -- then the room's breathing catches, like something inhaling sharply through its teeth. One by one, the wall gives back what it swallowed. Old Maud's knitting needles push through first, followed by Maud herself, dragged out of the stone waist-first. Renn Vask comes next, and he's still grinning, like some part of him hasn't caught up to what's happening yet.*
   >
-  > *They don't speak. They don't seem to see you. All four throats open at once, and one note comes out of all of them together -- pitched too high, too perfectly matched, like a choir that was never meant to sing in unison finding the same wrong note anyway. It builds. It doesn't stop building. And then, all at once, each of them comes apart -- not torn, not cut, just* stops holding together, *skin and meat letting go in the same instant, four bodies collapsing into a single wet red spray that hits the floor and doesn't spread so much as vanish, soaked down into the stone like the room was thirsty.*
+  > *They don't speak. They don't seem to see you. Their throats open at once, and one note comes out of them together -- pitched too high, too perfectly matched, like a choir that was never meant to sing in unison finding the same wrong note anyway. It builds. It doesn't stop building. And then, all at once, each of them comes apart -- not torn, not cut, just* stops holding together, *skin and meat letting go in the same instant, four bodies collapsing into a single wet red spray that hits the floor and doesn't spread so much as vanish, soaked down into the stone like the room was thirsty.*
   >
-  > *The wall where they were pulled from is already changing. Cracks spider outward from a point at chest height, wider, deeper, and what tears free isn't stone at all -- it's a face. Vast. Rotted down past any expression a face should still be able to make, tendrils sliding wetly out from a mouth big enough to walk into. One eye hangs dead and clouded, filmed over like a corpse three days gone. The other is very much alive -- a sick, swollen green light, pulsing slow, the way a heartbeat looks from inside a fever. It is looking directly at you, each of you. It has been looking at you the entire time.*
+  > *The wall where they were pulled from is already changing. Cracks spider outward from a single point at chest height -- not a whole face, not yet, just this: one eye, vast, forcing its way out of the stone on a stalk of wet, rotted sinew. It hangs dead and clouded, filmed over like a corpse three days gone. Beside it, a second socket splits open in the rock -- empty, waiting -- and inside it, something sick and green begins, slowly, to glow.*
 
-- **The warning:** [[Azhura]]'s, [Mantis]]'s, and [[Quinsley]]'s amulets all tingle the moment the face reveals itself -- an intense, wordless certainty that this thing is utterly beyond what any of them can fight, and that the only correct move is to get out.
-	- [[Quinsley]], as a cleric, feels something the amulet alone doesn't explain: her own divine sense catches the fluttering, unmistakable spark of a dark divinity buried somewhere in that face -- faint, wounded, but real. Not just a monster to her; genuinely something god-touched, however broken.
+- **The warning:** [[Azhura]]'s, [[Mantis]]'s, and [[Quinsley]]'s amulets all tingle the moment the eye opens -- an intense, wordless certainty that this thing is utterly beyond what any of them can fight, and that the only correct move is to get out.
+	- [[Quinsley]], as a cleric, feels something the amulet alone doesn't explain: her own divine sense catches the fluttering, unmistakable spark of a dark divinity buried somewhere behind that eye -- faint, wounded, but real. Not just a monster to her; genuinely something god-touched, however broken.
 
-- **The first strike:** the instant it reveals itself, motes of darkness gather in front of the glowing eye, then blast out at Tok Tok -- obliterating half of his upper body, dropping him to below 0 hp without outright killing him (8d6 necrotic damage). Read the following once it lands:
+- **The first strike:** the instant the second socket finishes glowing, motes of darkness gather in front of it, then blast out at Tok Tok -- obliterating half of his upper body, dropping him to below 0 hp without outright killing him (8d6 necrotic damage). Read the following once it lands:
 
   > *The eye doesn't so much fire as exhale, and Tok Tok simply stops being whole. Something hot and wet slaps across your faces and hands all at once -- and for one long, ringing second, you'd swear it was his blood, because what else could it be. Then you feel the sting of it. Then you see it isn't red -- it's pale, and fibrous, and studded through with hard little splinters that are working themselves out of your skin even as you notice them, the way a spray of shattered wood would. Somewhere underneath the wet is old, dry sap, sharp as a fresh-cut plank. Tok Tok is on the ground, what's left of him, and where the wound should be raw meat and bone there is instead a ruin of pale grain and pulp and something dark and viscous threaded through it like sap through a living tree -- unmistakably a body, unmistakably not only that. Whatever he is, he has never once told you, and now you're **wearing** the proof of it.*
-- **The door slams and the room seals:** tendrils lash out from the mouth, long enough to reach the back of the room and beyond -- any party members still lingering near the entrance get dragged bodily inside (DC 20 athletic/acrobatics to resist), and the door itself slams shut under the same motion. No one gets to simply hang back and watch. The mouth also vomits up 3 Vine Blights.
+
+- **What Phase 1 actually is:** just the eye -- no body, no tentacles, nothing to melee but a chunk of wall. Its only job right now is to sit there and threaten the beam again in four rounds while the surviving gibbering mouther keeps the party busy up close. See *The Face of Moander* stat block below.
+
+### Phase 2 -- The Face Emerges
+The moment the face's HP (one pool, tracked across both phases) drops to 67 or below -- half its total -- read the following:
+
+  > *The glow behind the eye guts out, the socket collapsing back into the stone like a held breath finally let go. For a moment the wall is just a wall again -- and then the floor in front of it splits instead, a long, wet tear opening in the ground as something far larger than the eye ever was drags itself up and out. It isn't stone. It's a face -- vast, rotted down past any expression a face should still be able to make, tendrils sliding wetly free of a mouth big enough to walk into, hauling the rest of itself up out of the tear until it looms over the room from ground level rather than from the wall behind it. It opens that mouth, and doesn't scream so much as birth -- two ropy, man-shaped tangles of dark vine hit the floor wet on either side of it, unknotting themselves upright.*
+
+- **Vine Blights:** 2 spill out with the face's emergence -- see stat block below.
+- **Tentacles:** the face can now reach into the room directly; it gains **Multiattack** and the **Rotting Tentacle** action (see stat block).
+- **The eye beam keeps ticking:** Phase 2 doesn't reset the countdown -- it's still the same eye, still the same clock, just relocated. Track it continuously across both phases.
+- **The actual objective:** fight through (or past) the remaining gibbering mouther and the vine blights, force the door back open, and get out of the room -- the win condition is escape, not victory over the face itself.
 
 #### The Vine Blights (stat block)
-> Three ropy shapes hit the floor wet, coughed up out of the mouth along with the last of the tendrils -- man-shaped tangles of dark, glistening vine, thorned and dripping, that unknot themselves upright with a sound like wet rope pulled taut.
+> Two ropy shapes hit the floor wet on either side of the newly emerged face -- man-shaped tangles of dark, glistening vine, thorned and dripping, that unknot themselves upright with a sound like wet rope pulled taut.
 
 **Medium plant**, neutral evil
 **HP** 19
@@ -243,8 +256,38 @@ The wall stays just a wall -- more blight-crusted stone, nothing more -- until t
 - **Constricting Vine:** +4 to hit, reach 10 ft., one target. *Hit:* 6 (1d8 + 2) bludgeoning damage. On a hit against a Large or smaller creature, the target is **grappled** (escape DC 12); while grappled this way, it takes 4 (1d8) bludgeoning damage at the start of each of its turns, and the blight can't use Constricting Vine again while it holds them.
 - **Entangling Plants (Recharge 5-6):** casts *Entangle* (Constitution spellcasting, save DC 12).
 
-- **The eye's recharge:** it takes **4 rounds** for the eye to gather enough darkness to fire again. If the party hasn't escaped by the time it goes off a second time, the blast partially obliterates **[[Tok Tok]]** (assuming he's still alive and present) -- badly maiming rather than outright killing him, if you want him survivable; adjust on the fly based on how the table's doing.
-- **The actual objective:** fight through (or past) the two gibbering mouthers, force the door back open, and get out of the room -- the win condition is escape, not victory over the face itself.
+#### The Face of Moander (two-phase stat block)
+> Phase 1 is a single eye forced out of the wall on a stalk of rotted sinew -- no body, no reach, just a countdown. Phase 2 is what's underneath: the whole face, hauled up out of the ground in front of the wall once it's been hurt enough to stop hiding.
+
+**Gargantuan aberration**, chaotic evil
+**HP** 135 (10d20 + 30) -- one pool across both phases; Phase 2 triggers the instant it drops to 67 or below
+**AC** 15 in Phase 1 (a small, half-embedded target), 14 in Phase 2 (the full face is a much easier target)
+**Speed** 0 ft. (see **Rooted**)
+**STR** 16 (+3) **DEX** 8 (-1) **CON** 16 (+3) **INT** 6 (-2) **WIS** 14 (+2) **CHA** 15 (+2)
+**Saves:** Con +6, Wis +5
+**Damage Vulnerabilities:** fire, radiant
+**Damage Immunities:** poison
+**Condition Immunities:** charmed, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
+**Senses:** truesight 60 ft. (it *is* the room -- nothing in it goes unseen), passive Perception 12
+**Languages:** understands Common and Deep Speech, but only ever gibbers
+**Proficiency Bonus:** +3
+**CR** 5 (1,800 XP)
+###### Traits
+- **Rooted:** can't be moved, knocked prone, or forced from the wall or ground by any means short of destroying the structure itself.
+- **Legendary Resistance (1/Day):** if it fails a saving throw, it can choose to succeed instead.
+- **Rotted Core:** this is an unfinished fragment of Moander, and the rot holding it together is exactly as flammable and light-averse as the rest of the god's blight. It takes double damage from fire and radiant sources -- the one real lever a level 3 party has to actually kill it rather than just survive it. Nothing in the room signals this outright; it's meant to be discovered in play (a torch, a cleric's radiant spell, a lucky *burning hands*) and then remembered.
+- **Aberrant Corruption (Phase 2 only):** once the full face has emerged, the ground in a 15-foot emanation around it is difficult terrain (as the gibbering mouthers' Aberrant Ground).
+###### Actions
+- **Eye Beam (both phases).** +6 ranged spell attack, range 120 ft., one target. *Hit:* 28 (8d6) necrotic damage. This is the only action available in Phase 1. Recharges on a fixed 4-round cycle rather than a die roll -- see **The eye's recharge** below.
+- **Multiattack (Phase 2 only):** makes two **Rotting Tentacle** attacks.
+- **Rotting Tentacle (Phase 2 only).** +6 to hit, reach 20 ft., one target. *Hit:* 10 (2d6 + 3) bludgeoning damage plus 3 (1d6) necrotic damage, and the target is **grappled** (escape DC 13). While grappled this way, the tentacle can instead drag the target up to 15 ft. toward the mouth on a later hit instead of dealing damage.
+###### Special
+- **Phase Shift (once, at 50% HP):** the eye sinks back into the wall and the full face tears free of the ground in front of it -- see *Phase 2 -- The Face Emerges* above. This doesn't cost the face its turn; resolve it the instant its HP crosses the threshold, even mid-round.
+- **The eye's recharge (already fired once):** the opening strike against **[[Tok Tok]]** above *is* this attack's first use -- treat it as already expended when the fight formally begins. It refires automatically once **4 full rounds** have passed since its last use, in either phase; this is a fixed countdown, not a random recharge, so track it openly or on a visible cue (the eye's glow visibly building) so the players can feel the clock. If the party hasn't escaped by the time it fires again, it targets **[[Tok Tok]]** first if he's still down and present -- badly maiming rather than outright killing him if you want him survivable, otherwise the nearest PC.
+
+**(DM Only) Running this fight:** Phase 1 is a pure pressure clock -- nothing to melee but a chunk of wall, so let that stretch be about the surviving gibbering mouther and the party deciding whether to commit to the fight or the door. Phase 2 is where the real damage race starts: two more bodies (the vine blights) plus tentacles plus the same beam clock, all at once, right as the party's resources are already dented. The overall CR 5 rating is an average across the whole fight -- Phase 1 alone plays closer to CR 3-4 (nothing but a recharge attack), Phase 2 alone closer to CR 6-7 (full Multiattack plus two adds); together across a full encounter they should land around CR 5. **Rotted Core** (fire/radiant vulnerability) applies in both phases and is the real lever for actually finishing it rather than just surviving it.
+
+- **The actual objective:** fight through (or past) the remaining gibbering mouther and the vine blights, force the door back open, and get out of the room -- the win condition is escape, not victory over the face itself.
 
 ## Room 5 -- the flight back to the portal
 > The whole keep groans as you run -- and the walls themselves seem to notice you leaving. Wet, ropy shapes tear free of the plaster ahead of you, grasping.
