@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1c2bee97ec181793",
+        "id": "55743a61b19e47d7",
         "type": "tabs",
         "children": [
           {
-            "id": "51793031345ca5e7",
+            "id": "221a51d4a83346b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Story Thus Far/The Wandering Tits - Azhura's Journal/0. Into the Gullet.md",
+                "file": "1. Game/Quests/The Wandering Tits/2. Liberating Underleaf/Adventure - Liberating Underleaf.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "0. Into the Gullet"
+              "title": "Adventure - Liberating Underleaf"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -94,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Story Thus Far/The Wandering Tits - Azhura's Journal/0. Into the Gullet.md",
+                "file": "Wiki/Characters/Main/Conrad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 0. Into the Gullet"
+              "title": "Backlinks for Conrad"
             }
           },
           {
@@ -155,7 +157,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,54 +172,54 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "51793031345ca5e7",
+  "active": "221a51d4a83346b9",
   "lastOpenFiles": [
-    "1. Game/Quests/The Wandering Tits/1. Into the Gullet/Adventure - Into the Gullet.md",
+    "1. Game/Quests/The Wandering Tits/2. Liberating Underleaf/Adventure - Liberating Underleaf.md.tmp.4825.61ec54274ffe",
+    "1. Game/Quests/The Wandering Tits/2. Liberating Underleaf/Adventure - Liberating Underleaf.md.tmp.4825.e312364aafe4",
+    "1. Game/Quests/The Wandering Tits/2. Liberating Underleaf/Adventure - Liberating Underleaf.md.tmp.4825.1bae90ad556d",
+    "1. Game/Quests/The Wandering Tits/2. Liberating Underleaf/Adventure - Liberating Underleaf.md.tmp.4825.57d6a367cf5f",
+    "1. Game/Quests/The Wandering Tits/2. Liberating Underleaf/Adventure - Liberating Underleaf.md.tmp.4825.7ca67a1334d3",
+    "1. Game/Quests/The Wandering Tits/2. Liberating Underleaf/Adventure - Liberating Underleaf.md.tmp.4825.41f78bd58cd2",
+    "1. Game/Quests/The Wandering Tits/2. Liberating Underleaf/Adventure - Liberating Underleaf.md.tmp.4825.e1d954e0129e",
+    "1. Game/Quests/The Wandering Tits/2. Liberating Underleaf/Adventure - Liberating Underleaf.md.tmp.4825.a9301c593796",
+    "1. Game/Quests/The Wandering Tits/2. Liberating Underleaf/Adventure - Liberating Underleaf.md.tmp.4825.45f0c761d00d",
+    "1. Game/Quests/The Wandering Tits/2. Liberating Underleaf/Adventure - Liberating Underleaf.md.tmp.4825.215b63fb526e",
+    "1. Game/Quests/The Wandering Tits/2. Liberating Underleaf/Adventure - Liberating Underleaf.md.tmp.4825.7923afe6847d",
+    "1. Game/Quests/The Wandering Tits/2. Liberating Underleaf/Map - Underleaf.md",
+    "- - -/attachments/maps/underleaf-tunnels.jpg",
+    "- - -/templates/map.md",
+    "- - -/attachments/maps/underleaf.jpg",
+    "1. Game/Quests/The Wandering Tits/2. Liberating Underleaf/Adventure - Liberating Underleaf.md",
+    "Wiki/Characters/Sword Coast/Underleaf/Neronvain.md",
+    "Wiki/Characters/Sword Coast/Underleaf/Wrinklefenderly Delimimus.md",
     "Wiki/Lore/The Attempted Return of Tiamat.md",
-    "Wiki/Organizations/Crimson Flame.md",
-    "Wiki/Characters/NPCs/Toril/The Sword Coast/Skaerth.md",
-    "Wiki/Characters/NPCs/Toril/The Sword Coast/Lord Halvern.md",
-    "The Story Thus Far/The Wandering Tits - Azhura's Journal/0. Into the Gullet.md",
-    "1. Game/Quests/The Wandering Tits/1. Into the Gullet/Adventure - Into the Gullet.md.tmp.21703.3965fa3b7f91",
-    "1. Game/Quests/The Wandering Tits/1. Into the Gullet/Adventure - Into the Gullet.md.tmp.21703.66d2341f0403",
-    "1. Game/Quests/The Wandering Tits/1. Into the Gullet/Adventure - Into the Gullet.md.tmp.21703.3ad56908ea9c",
-    "1. Game/Quests/The Wandering Tits/1. Into the Gullet/Adventure - Into the Gullet.md.tmp.21703.5450d1d885a8",
-    "1. Game/Quests/The Wandering Tits/1. Into the Gullet/Adventure - Into the Gullet.md.tmp.21703.5a879869b79f",
-    "1. Game/Quests/The Wandering Tits/1. Into the Gullet/Adventure - Into the Gullet.md.tmp.21703.48967aebf65e",
-    "1. Game/Quests/The Wandering Tits/1. Into the Gullet/Adventure - Into the Gullet.md.tmp.21703.0ec39394cafb",
-    "1. Game/Quests/The Wandering Tits/1. Into the Gullet/Adventure - Into the Gullet.md.tmp.21703.b412dff971f9",
-    "1. Game/Quests/The Wandering Tits/1. Into the Gullet/Map - Demiplanar Donjon.md",
-    "Wiki/Characters/Main/Quinsley.md",
-    "- - -/maps/tissue_forest_smaller.jpg",
-    "- - -/maps/demiplanar_donjon.png",
-    "- - -/maps/sword-coast.jpg",
-    "1. Game/Quests/The Wandering Tits/1. Into the Gullet",
-    "1. Game/Quests/The Wandering Tits/1. Into the Gullet.md.tmp.18728.d89293bf7114",
-    "Wiki/Lore/The Journals and Papers of Ashyra Veil.md",
-    "Wiki/Organizations/Order of Bahamut.md",
-    "Wiki/Characters/Main/Azhura.md",
-    "Wiki/Locations/Realmspace/Toril/The Wandering Tit.md",
-    "Wiki/Characters/Main/Mantis.md",
-    "Wiki/Locations/Realmspace/Toril/Underleaf.md",
-    "Wiki/Characters/NPCs/Toril/The Sword Coast/Ashra.md",
-    "Wiki/Characters/NPCs/Toril/The Sword Coast/Valraxis.md",
-    "Wiki/Characters/NPCs/Toril/The Sword Coast/Vaelithrax.md",
-    "Wiki/Characters/NPCs/Toril/The Sword Coast/Sister Mary.md",
-    "Wiki/Characters/NPCs/Toril/The Sword Coast/Sir Garrick.md",
-    "Wiki/Characters/NPCs/Toril/The Sword Coast/Pyravyl.md",
-    "Wiki/Characters/NPCs/Toril/The Sword Coast/Infernia.md",
-    "Wiki/Characters/NPCs/Toril/The Sword Coast/Harka.md",
-    "Wiki/Characters/NPCs/Toril/The Sword Coast/Cinder.md",
-    "1. Game/Species/Half-Tabaxi.md",
-    "The Story Thus Far/Planar Pathfinders/4. Sigil Shopping Spree.md",
-    "The Story Thus Far/Planar Pathfinders/0. Prologue.md",
-    "_attachments/Pasted image 20260704144008.png",
-    "- - -/attachments/toktok_portrait.png",
-    "- - -/attachments/taxi_portrait.png",
-    "- - -/attachments/boss.jpg",
-    "- - -/attachments/azhura_portrait.png",
-    "- - -/attachments/concordant_express.png",
-    "- - -/attachments/yggdrasil_map.png",
+    "Wiki/Characters/Sword Coast/Misty Forest/Alagarthas.md",
+    "Wiki/Characters/Sword Coast/Misty Forest/Melandrach.md",
+    "Wiki/Characters/Sword Coast/Misty Forest/Galin.md",
+    "Wiki/Locations/Toril/Altand.md",
+    "Wiki/Characters/Sword Coast/Crimson Flame/Neronvain.md",
+    "- - -/templates/adventure.md",
+    "Wiki/Characters/Quinsley.md",
+    "Wiki/Characters/Sword Coast/Underleaf/Tobias Keth.md",
+    "Wiki/Organizations/The Underfoot.md",
+    "Wiki/Locations/Toril/Underleaf.md",
+    "Chronicles/Azhura's Journal/2. Liberating Underleaf.md",
+    "Wiki/Characters/Sword Coast/Sir Garrick.md",
+    "Wiki/Characters/Sword Coast/Underleaf/Captain Radia.md",
+    "Wiki/Characters/Sword Coast/Underleaf/Vantha Emberlight.md",
+    "Wiki/Characters/Sword Coast/Underleaf/Tobin.md",
+    "Wiki/Characters/Sword Coast/Underleaf/Skritt Emberquill.md",
+    "Wiki/Characters/Sword Coast/Underleaf/Renn Vask.md",
+    "Wiki/Characters/Sword Coast/Underleaf/Perce Hollin.md",
+    "Wiki/Characters/Sword Coast/Underleaf/Mireille Duskweave.md",
+    "- - -/attachments/maps/underleaf_labeled.jpg",
+    "- - -/attachments/maps/underleaf (copy).jpg",
+    "- - -/attachments/npcs/garrek_portrait.png",
+    "- - -/attachments/npcs/old_maud_portrait.png",
+    "- - -/attachments/npcs/renn_portrait.png",
+    "- - -/attachments/npcs/thornwick.png",
+    "- - -/attachments/npcs/tobin_portrait.png",
+    "- - -/attachments/npcs/mireille_portrait.png",
     "0. DM Screen/Character Sheets/Untitled.canvas",
     "0. DM Screen/Untitled.canvas"
   ]
